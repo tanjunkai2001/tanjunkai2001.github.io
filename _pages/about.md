@@ -25,7 +25,7 @@ I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/we
 - **Theoretical Research**: Solid foundation in advanced control and reinforcement learning theory. Leading research on human-machine hybrid control with publications in top journals including IEEE TASE, Information Sciences, and Nonlinear Dynamics.
 - **Engineering Practice**: Extensive experience with unmanned systems development, including UAV-UGV collaborative control projects and multi-unmanned system hardware platforms based on optical motion capture systems.
 
-## 📝 Selected Publications | 学术成果 [[Google Scholar]](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN)
+## 📝 Selected Publications | 学术成果
 
 1. "[Prescribed performance robust approximate optimal tracking control via Stackelberg game](https://ieeexplore.ieee.org/document/10916718)", *IEEE Transactions on Automation Science and Engineering*, 2025.
 2. "Finite-time safe reinforcement learning control of multi-player nonzero-sum game for quadcopter systems", *Information Sciences*, 2025.
@@ -34,7 +34,7 @@ I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/we
 
 
 <!-- ## 📫 Contact | 联系方式 -->
-[Email](mailto:tanjk@stu.xjtu.edu.cn) \ [GitHub](https://github.com/tanjunkai2001) \ [Blog](https://tanjunkai2001.github.io/blog)
+[Google Scholar](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) \ [GitHub](https://github.com/tanjunkai2001) \ [Email](mailto:tanjk@stu.xjtu.edu.cn) \ [Blog](https://tanjunkai2001.github.io/blog)
 
 <!-- ## 📫 Contact | 联系方式
 - 📧 Email: tanjk@stu.xjtu.edu.cn -->
