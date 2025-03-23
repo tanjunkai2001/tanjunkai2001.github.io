@@ -78,8 +78,8 @@ Teaching
   {% endfor %}</ul> -->
 
 
-  Honors and Awards
-  ======
+Honors and Awards
+======
   * **State Grid UHV Scholarship**, State Grid Corporation of China, Sep 2020
   * **Outstanding Student Award**, Xi'an Jiaotong University, Sep 2020
   * **Second Prize**, Shaanxi Province 12th National College Students Mathematics Competition, Oct 2020
