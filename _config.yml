@@ -22,23 +22,24 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "tjk.png"
+  name             : "Junkai Tan / 谭浚楷"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Tan Junkai from Hunan, China, studying Complex & intelligent control theory at School of EE, Xi'an Jiaotong University."
+  location         : "Xi'an, China"
+  affiliation      : "Xi'an Jiaotong University"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tanjk@stu.xjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-0558-6357l"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Junkai-Tan-2"
   scopus           : # URL
 
   # Repositories and software development
