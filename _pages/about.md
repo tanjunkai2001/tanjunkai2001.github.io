@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me - Junkai Tan"
-excerpt: "Junkai Tan is a fourth-year graduate student from School of Electrical Engineering, Xi'an Jiaotong University. His research interest include robotics control, intelligent control, learning-based control, and unmanned system control."
+excerpt: "Junkai Tan is a second-year graduate student from School of Electrical Engineering, Xi'an Jiaotong University. His research interest include robotics control, intelligent control, learning-based control, and unmanned system control."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 
 <!-- ## 👨‍💼 About Me | 个人简介 -->
-I’m a fourth-year graduate student from [School of Electrical Engineering](https://ee.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interest include robotics control, intelligent control, learning-based control, and unmanned system control.
+I’m a second-year graduate student from [School of Electrical Engineering](https://ee.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interest include robotics control, intelligent control, learning-based control, and unmanned system control.
 <!-- - 🌐 Personal Website: [tanjunkai2001.github.io](https://tanjunkai2001.github.io) -->
 
 I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/web/huicao) and [Prof. Shuangsi Xue](https://gr.xjtu.edu.cn/en/web/xssxjtu) of BIR Lab, Xi'an Jiaotong University. I am also a student of the [Industrial Automation Lab](https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm).
