@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junkai Tan (谭浚楷) | Graduate Student at Xi'an Jiaotong University"
+# title: "Junkai Tan (谭浚楷) | Graduate Student at Xi'an Jiaotong University"
 author_profile: true
 redirect_from: 
   - /about/
