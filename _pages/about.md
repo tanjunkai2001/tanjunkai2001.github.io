@@ -34,6 +34,9 @@ I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/we
 4. "[Data-driven optimal shared control of unmanned aerial vehicles](https://www.sciencedirect.com/science/article/pii/S0925231225001006)", *Neurocomputing*, 2025.
 
 
+You can find my CV here: [Junkai Tan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+
 <!-- ## 📫 Contact | 联系方式 -->
 [Google Scholar](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) \ [GitHub](https://github.com/tanjunkai2001) \ [Email](mailto:tanjk@stu.xjtu.edu.cn) \ [Blog](https://tanjunkai2001.github.io/blog)
 
