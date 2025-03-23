@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Me - Junkai Tan"
+excerpt: "Junkai Tan is a fourth-year graduate student from School of Electrical Engineering, Xi'an Jiaotong University. His research interest include robotics control, intelligent control, learning-based control, and unmanned system control."
 author_profile: true
 redirect_from: 
   - /about/
