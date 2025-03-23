@@ -1,13 +1,12 @@
 ---
 permalink: /
-# title: "Junkai Tan (谭浚楷) | Graduate Student at Xi'an Jiaotong University"
+title: "Hi there 👋, I'm Junkai Tan (谭浚楷)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hi there 👋, I'm Junkai Tan (谭浚楷)
 
 ## 👨‍💼 About Me | 个人简介
 - 👨‍🎓 Master's Candidate in Electrical Engineering (Industrial Automation Lab), [School of Electrical Engineering](https://ee.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interest include robotics control, intelligent control, learning-based control, and unmanned system control.
