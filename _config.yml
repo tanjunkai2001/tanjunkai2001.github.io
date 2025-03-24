@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Junkai Tan (谭浚楷)"
   pronouns         : # example: "she/her"  
-  bio              : "from Hunan, China, studying Complex & intelligent control theory at EE, XJTU."
+  bio              : "from Hunan, China, studying complex & intelligent control theory at EE, XJTU."
   location         : "Xi'an, China"
   affiliation      : "Xi'an Jiaotong University"
   employer         : # "Red Brick University"
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-0558-6357l"
-  semantic         : "https://tanjunkai2001.github.io"
+  semantic         : "https://www.semanticscholar.org/author/Junkai-Tan/2233759041"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Junkai-Tan-2"
   scopus           : # URL
