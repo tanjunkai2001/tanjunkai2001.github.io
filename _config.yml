@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "JK Tan's Personal Homepage"
+title                    : "Junkai Tan's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
   location         : "Xi'an, China"
   affiliation      : "Xi'an Jiaotong University"
   employer         : # "Red Brick University"
-  uri              : "https://tanjunkai2001.github.io/"
+  uri              : # "https://tanjunkai2001.github.io/"
   email            : "tanjk@stu.xjtu.edu.cn" 
 
   # Academic websites
