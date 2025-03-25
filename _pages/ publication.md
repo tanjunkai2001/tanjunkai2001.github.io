@@ -18,17 +18,9 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Articles
-<!-- {% for post in site.publications reversed %}
-  {% if post.pubtype == 'journal' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %} -->
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
-    {% if post.image %}
-      ![{{ post.title }}]({{ post.image }}){: .align-right}
-    {% endif %}
-    {% include archive-single.html %}
+    {% include archive-single_V2.html %}
   {% endif %}
 {% endfor %}
 
