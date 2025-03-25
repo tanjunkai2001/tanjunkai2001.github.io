@@ -20,7 +20,35 @@ author_profile: true
 ## Journal Articles
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
-      {% include archive-single.html %}
+    <div class="publication-entry">
+      {% if post.coverimage %}
+        <div class="publication-image">
+          <img src="{{ post.coverimage | prepend: "/images/" | prepend: base_path }}" alt="{{ post.title }} cover image"> <!-- add cover image, image name: post title -->
+        </div>
+        <div class="publication-info">
+          {% include archive-single.html %}
+        </div>
+      {% else %}
+        {% include archive-single.html %}
+      {% endif %}
+    </div>
+    <style>
+      .publication-entry {
+        display: flex;
+        margin-bottom: 20px;
+      }
+      .publication-image {
+        flex: 0 0 200px;
+        margin-right: 20px;
+      }
+      .publication-image img {
+        max-width: 100%;
+        height: auto;
+      }
+      .publication-info {
+        flex: 1;
+      }
+    </style>
   {% endif %}
 {% endfor %}
 
