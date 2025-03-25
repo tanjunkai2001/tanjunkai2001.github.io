@@ -1,9 +1,10 @@
 ---
-title: "Finite-time safe reinforcement learning control of multi-player nonzero-sum game for quadcopter systems"
+title: "Finite-time Safe Reinforcement Learning Control of Multi-player Nonzero-Sum Game for Quadcopter Systems"
 collection: publications
-permalink: /publication/2025-03-01-Finite-time-safe-reinforcement-learning-control-of-multi-player-nonzero-sum-game-for-quadcopter-systems
+permalink: /publication/2025-03-01-Finite-time-Safe-Reinforcement-Learning-Control-of-Multi-player-Nonzero-Sum-Game-for-Quadcopter-Systems
 date: 2025-03-01
 venue: 'Information Sciences'
-citation: ' Jun Tan,  Shuang Xue,  Qing Guan,  Kai Qu,  Hui Cao, &quot;Finite-time safe reinforcement learning control of multi-player nonzero-sum game for quadcopter systems.&quot; Information Sciences, 2025.'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S002002552500249X'
+citation: ' Junkai Tan,  Shuangsi Xue,  Qingshu Guan,  Kai Qu,  Hui Cao, &quot;Finite-time Safe Reinforcement Learning Control of Multi-player Nonzero-Sum Game for Quadcopter Systems.&quot; Information Sciences, 2025.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Finite+time+safe+reinforcement+learning+control+of+multi+player+nonzero+sum+game+for+quadcopter+systems){:target="_blank"} for full citation
+[Access paper here](https://www.sciencedirect.com/science/article/pii/S002002552500249X){:target="_blank"}
