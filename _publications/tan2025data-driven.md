@@ -7,7 +7,7 @@ venue: 'Neurocomputing'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0925231225001006'
 doi: '10.1016/j.neucom.2025.129428'
 pubtype: 'journal'
-image: '/images/Neurocomputing.jpg'
+image: '../images/Neurocomputing.jpg'
 authors: 'J. Tan, S. Xue, Z. Guo, H. Li, H. Cao, B. Chen'
 excerpt_separator: ""
 ---
