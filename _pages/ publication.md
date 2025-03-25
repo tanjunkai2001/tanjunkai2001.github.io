@@ -26,9 +26,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
     {% if post.image %}
-      <div style="text-align: center; margin-bottom: 15px;">
-      <img src="{{ post.image }}" alt="{{ post.image }}" style="max-width: 350px; height: auto;">
-      </div>
+      ![{{ post.title }}]({{ post.image }} "{{ post.title }}")
     {% endif %}
     {% include archive-single.html %}
   {% endif %}
