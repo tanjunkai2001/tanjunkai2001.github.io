@@ -7,6 +7,7 @@ venue: 'Journal of Automation and Intelligence'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S2949855425000024'
 doi: '10.1016/j.jai.2025.01.001'
 pubtype: 'journal'
+post.image: '/images/Journal of Automation and Intelligence.jpg'
 authors: 'J. Tan, S. Xue, H. Cao, S. S. Ge'
 excerpt_separator: ""
 ---

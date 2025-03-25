@@ -7,6 +7,7 @@ venue: 'International Journal of Robust and Nonlinear Control'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.7931'
 doi: '10.1002/rnc.7931'
 pubtype: 'journal'
+post.image: '/images/International Journal of Robust and Nonlinear Control.jpg'
 authors: 'J. Tan, J. Wang, S. Xue, H. Cao, H. Li, Z. Guo'
 excerpt_separator: ""
 ---

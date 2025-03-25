@@ -7,6 +7,7 @@ venue: 'Information Sciences'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S002002552500249X'
 doi: '10.1016/j.ins.2025.122117'
 pubtype: 'journal'
+post.image: '/images/Information Sciences.jpg'
 authors: 'J. Tan, S. Xue, Q. Guan, K. Qu, H. Cao'
 excerpt_separator: ""
 ---
