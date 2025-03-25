@@ -7,7 +7,7 @@ venue: 'IEEE Transactions on Automation Science and Engineering'
 paperurl: 'https://ieeexplore.ieee.org/document/10916718/'
 doi: '10.1109/TASE.2025.3549114'
 pubtype: 'journal'
-post.image: '/images/IEEE Transactions on Automation Science and Engineering.jpg'
+image: '/images/IEEE Transactions on Automation Science and Engineering.jpg'
 authors: 'J. Tan, S. Xue, H. Li, Z. Guo, H. Cao, D. Li'
 excerpt_separator: ""
 ---

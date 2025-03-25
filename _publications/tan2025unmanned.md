@@ -7,7 +7,7 @@ venue: 'Nonlinear Dynamics'
 paperurl: 'https://link.springer.com/10.1007/s11071-025-11021-6'
 doi: '10.1007/s11071-025-11021-6'
 pubtype: 'journal'
-post.image: '/images/Nonlinear Dynamics.jpg'
+image: '/images/Nonlinear Dynamics.jpg'
 authors: 'J. Tan, S. Xue, Q. Guan, T. Niu, H. Cao, B. Chen'
 excerpt_separator: ""
 ---
