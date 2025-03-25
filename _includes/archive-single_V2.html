@@ -59,17 +59,17 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.code %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.code }}">Download Slides</a></p>
+      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.code }}">Code</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br /><a href="{{ post.paperurl }}">Paper</a></p>
     {% elsif post.citation and post.code %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.code }}">Download Slides</a></p>
+      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br /><a href="{{ post.code }}">Code</a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
+      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span></p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
+      <p><a href=" {{ post.paperurl }} ">Paper</a></p>
     {% elsif post.code %}
-      <p><a href="{{ post.code }}">Download Slides</a></p>
+      <p><a href="{{ post.code }}">Code</a></p>
     {% endif %}
 
   </article>
