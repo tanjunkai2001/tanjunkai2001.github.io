@@ -24,10 +24,13 @@ author_profile: true
   {% endif %}
 {% endfor %} -->
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'journal'%}
-    <div class="publication-image">
-      <img src="{{ prepend: "/images/" | prepend: base_path }}" alt="{{ post.title }} cover image">
-    </div>
+  {% if post.pubtype == 'journal' %}
+    <!-- {% if post.coverimage %} -->
+      <div class="publication-image">
+        <img src="{{ prepend: "/images/" | prepend: base_path }}" alt="{{ post.title }} cover image">
+      </div>
+    <!-- {% endif %} -->
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
