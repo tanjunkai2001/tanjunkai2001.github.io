@@ -5,7 +5,7 @@ permalink: /publication/tan2025stackelberg
 date: 2025-02-27 00:00:00 +0500
 venue: 'The International Journal of Intelligent Control and Systems'
 pubtype: 'journal'
-image: 'The International Journal of Intelligent Control and Systems.jpg'
+image: '../images/The International Journal of Intelligent Control and Systems.jpg'
 authors: 'J. K. Tan, S. S. Xue, H. Cao'
 excerpt_separator: ""
 ---
