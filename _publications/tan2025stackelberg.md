@@ -6,6 +6,7 @@ date: 2025-02-27 00:00:00 +0500
 venue: 'The International Journal of Intelligent Control and Systems'
 pubtype: 'journal'
 image: '../images/The International Journal of Intelligent Control and Systems.jpg'
+citation: 'Tan, Jun Kai and Xue, Shuang Si and Cao, Hui (2025). Stackelberg game-based robust optimal control of cyber-physical system under hybrid attacks. The International Journal of Intelligent Control and Systems.'
 authors: 'J. K. Tan, S. S. Xue, H. Cao'
 excerpt_separator: ""
 ---

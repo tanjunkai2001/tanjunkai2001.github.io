@@ -7,6 +7,7 @@ venue: '2023 International Conference on Advanced Robotics and Mechatronics (ICA
 paperurl: 'https://ieeexplore.ieee.org/document/10218910/'
 doi: '10.1109/ICARM58088.2023.10218910'
 pubtype: 'conference'
+citation: 'Tan, Junkai and Xue, Shuangsi and Cao, Hui and Li, Huan (2023). Nash Equilibrium Solution Based on Safety-Guarding Reinforcement Learning in Nonzero-Sum Game. 2023 International Conference on Advanced Robotics and Mechatronics (ICARM).'
 authors: 'J. Tan, S. Xue, H. Cao, H. Li'
 excerpt_separator: ""
 ---

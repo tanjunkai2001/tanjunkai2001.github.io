@@ -8,6 +8,7 @@ paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S2949855425000024'
 doi: '10.1016/j.jai.2025.01.001'
 pubtype: 'journal'
 image: '../images/Journal of Automation and Intelligence.jpg'
+citation: 'Tan, Junkai and Xue, Shuangsi and Cao, Hui and Ge, Shuzhi Sam (2025). Human–AI interactive optimized shared control. Journal of Automation and Intelligence.'
 authors: 'J. Tan, S. Xue, H. Cao, S. S. Ge'
 excerpt_separator: ""
 ---
