@@ -26,7 +26,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
     {% if post.image %}
-      {% ![{{ post.title }}]({{ post.image }}) %}
+      ![{{ post.title }}]({{ post.image }}){: .align-right}
     {% endif %}
     {% include archive-single.html %}
   {% endif %}
