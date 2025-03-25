@@ -25,11 +25,11 @@ author_profile: true
 {% endfor %} -->
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
-    <!-- {% if post.coverimage %} -->
-      <div class="publication-image">
-        <img src="{{ prepend: "/images/" | prepend: base_path }}" alt="{{ post.title }} cover image">
+    {% if post.image %}
+      <div style="text-align: center; margin-bottom: 15px;">
+      <img src="{{ post.image }}" alt="{{ post.title }}" style="max-width: 350px; height: auto;">
       </div>
-    <!-- {% endif %} -->
+    {% endif %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
