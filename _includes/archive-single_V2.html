@@ -62,30 +62,30 @@
       <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br />
       <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ post.code }}">Code</a> | 
-      <a href="{{ base_path }}/assets/{{ post.title | slugify }}.pdf">Download</a></p>
+      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation and post.paperurl %}
       <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br />
       <a href="{{ post.paperurl }}">Paper</a> | 
-      <a href="{{ base_path }}/assets/{{ post.title | slugify }}.pdf">Download</a></p>
+      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation and post.code %}
       <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br />
       <a href="{{ post.code }}">Code</a> | 
-      <a href="{{ base_path }}/assets/{{ post.title | slugify }}.pdf">Download</a></p>
+      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation %}
       <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br />
-      <a href="{{ base_path }}/assets/{{ post.title | slugify }}.pdf">Download</a></p>
+      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.paperurl %}
       <p>
       <a href="{{ post.paperurl }}">Paper</a> | 
-      <a href="{{ base_path }}/assets/{{ post.title | slugify }}.pdf">Download</a>
+      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a>
       </p>
     {% elsif post.code %}
       <p>
       <a href="{{ post.code }}">Code</a> | 
-      <a href="{{ base_path }}/assets/{{ post.title | slugify }}.pdf">Download</a>
+      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a>
       </p>
     {% else %}
-      <p><a href="{{ base_path }}/assets/{{ post.title | slugify }}.pdf">Download</a></p>
+      <p><a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% endif %}
 
   </article>
