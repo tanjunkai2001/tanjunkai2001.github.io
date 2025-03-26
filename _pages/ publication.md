@@ -28,14 +28,14 @@ author_profile: true
 ## Conference Papers
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %}
-      {% include archive-single.html %}
+      {% include archive-single_V1.html %}
   {% endif %}
 {% endfor %}
 
 ## White Papers
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'whitepaper' %}
-      {% include archive-single.html %}
+      {% include archive-single_V1.html %}
   {% endif %}
 {% endfor %}
 
@@ -43,13 +43,13 @@ author_profile: true
 ## Academic
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'academic' %}
-      {% include archive-single.html %}
+      {% include archive-single_V1.html %}
   {% endif %}
 {% endfor %}
 
 ## Presentations
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'presentation' %}
-      {% include archive-single.html %}
+      {% include archive-single_V1.html %}
   {% endif %}
 {% endfor %}
