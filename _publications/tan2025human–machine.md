@@ -8,6 +8,7 @@ paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.7931'
 doi: '10.1002/rnc.7931'
 pubtype: 'journal'
 image: '../images/International Journal of Robust and Nonlinear Control.jpg'
+code: 'https://github.com/tanjunkai2001/human-machine-safe'
 citation: 'Tan, Junkai and Wang, Jingcheng and Xue, Shuangsi and Cao, Hui and Li, Huan and Guo, Zihang (2025). Human–Machine Shared Stabilization Control Based on Safe Adaptive Dynamic Programming With Bounded Rationality. International Journal of Robust and Nonlinear Control.'
 authors: 'J. Tan, J. Wang, S. Xue, H. Cao, H. Li, Z. Guo'
 excerpt_separator: ""
