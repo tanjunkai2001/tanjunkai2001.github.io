@@ -18,16 +18,16 @@ I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/we
 
 
 
-## 🔬 Research Interests | 研究方向
-- 🤖 Human-Machine Hybrid Enhanced Control (人机混合增强控制)
-- 🚁 Unmanned Systems Tracking Control (无人系统追踪控制)
-- 📊 Data-Driven Optimal Control (数据驱动的最优控制)
+## 🔬 Research Interests
+My research interests include:
+- Data-Driven Unmanned Systems Optimal Control (数据驱动的无人系统最优控制, *IEEE TASE*, *INS*, *NoDy*)
+- Human-Machine Hybrid Enhanced Control (人机混合增强控制, *Neurocomputing*, *IJRNC*)
 
-## 💻 Core Competencies | 核心能力
+## 💻 Core Competencies
 - **Theoretical Research**: Solid foundation in advanced control and reinforcement learning theory. Leading research on human-machine hybrid control with publications in top journals including IEEE TASE, Information Sciences, and Nonlinear Dynamics.
 - **Engineering Practice**: Extensive experience with unmanned systems development, including UAV-UGV collaborative control projects and multi-unmanned system hardware platforms based on optical motion capture systems.
 
-## 📝 Selected Publications | 学术成果
+## 📝 Selected Publications
 
 1. "[Prescribed performance robust approximate optimal tracking control via Stackelberg game](https://ieeexplore.ieee.org/document/10916718)", *IEEE Transactions on Automation Science and Engineering*, 2025.
 2. "[Finite-time safe reinforcement learning control of multi-player nonzero-sum game for quadcopter systems](https://www.sciencedirect.com/science/article/pii/S002002552500249X)", *Information Sciences*, 2025.
@@ -40,13 +40,14 @@ You can find my CV here: [web](https://tanjunkai2001.github.io/cv/) \ [pdf](../a
 
 
 <!-- ## 📫 Contact | 联系方式 -->
-[Google Scholar](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) \ [GitHub](https://github.com/tanjunkai2001) \ [Email](mailto:tanjk@stu.xjtu.edu.cn) \ [Blog](https://tanjunkai2001.github.io/blog)
+[Google Scholar](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) \ [GitHub](https://github.com/tanjunkai2001) \ [Email](mailto:tanjk@stu.xjtu.edu.cn) \ [Blog](https://tanjunkai2001.github.io/blog) \ [LinkedIn](https://www.linkedin.com/in/junkai-tan-366790268/)
 
 <!-- ## 📫 Contact | 联系方式
 - 📧 Email: tanjk@stu.xjtu.edu.cn -->
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="180" />
-    <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="195" />
+    <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="    <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="195" />
+" />
 </div>
