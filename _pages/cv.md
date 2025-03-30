@@ -94,4 +94,16 @@ Honors and Awards
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Service and leadership
+======
+* Reviewer for international journals/conferences including:
+  * IEEE Conference on Decision and Control (IEEE CDC)
+  * Engineering Applications of Artificial Intelligence (Elsevier)
+  * Acta Astronautica (Elsevier)
+  * Measurement (Elsevier)
+  * Session Chair
+
+
+* 2023 International Conference on Advanced Robotics and Mechatronics (ICARM)
+  <!-- * Chaired technical session at Class A conference of Chinese Association of Automation -->
+  * Organized and moderated academic presentations and discussions
