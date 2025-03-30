@@ -26,11 +26,11 @@
       </div>
     {% endif %}
 
-    <!-- {% if post.image %} -->
+    {% if post.title %}
       <div class="archive__item-image-container" style="float: right; margin-left: 15px; text-align: right;">
       <img src="../images/ieee-logo.webp" alt="{{ post.title }}" class="archive__item-image" style="max-width: 200px; max-height: 150px; object-fit: contain; border: 1px solid #ddd; border-radius: 4px; padding: 3px; vertical-align: top;">
       </div>
-    <!-- {% endif %} -->
+    {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
