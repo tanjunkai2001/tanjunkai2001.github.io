@@ -101,9 +101,6 @@ Service and leadership
   * Engineering Applications of Artificial Intelligence (Elsevier)
   * Acta Astronautica (Elsevier)
   * Measurement (Elsevier)
-  * Session Chair
-
-
-* 2023 International Conference on Advanced Robotics and Mechatronics (ICARM)
+* Session Chair of 2023 International Conference on Advanced Robotics and Mechatronics (ICARM)
   <!-- * Chaired technical session at Class A conference of Chinese Association of Automation -->
   * Organized and moderated academic presentations and discussions
