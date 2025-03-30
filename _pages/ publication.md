@@ -43,7 +43,7 @@ author_profile: true
 ## Academic
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'academic' %}
-      {% include archive-single_V1.html %}
+      {% include archive-single_V3.html %}
   {% endif %}
 {% endfor %}
 
