@@ -37,7 +37,7 @@ The project aims to enhance the reliability and performance of autonomous system
 
 *May 2022 - Dec 2024*
 
-![Human-UAV Interaction System](/images/human_uav_interaction.png){: width="80%"}
+![Human-UAV Interaction System](/images/human_uav_interaction.png){: width="90%"}
 
 **Tools:** Optimal Control, Reinforcement Learning, Game Theory, MATLAB, Unmanned Aerial Vehicles
 
