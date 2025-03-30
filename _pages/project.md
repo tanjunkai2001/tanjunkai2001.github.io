@@ -18,9 +18,9 @@ redirect_from:
 **Tools:** Optimal Control, Game Theory, Reinforcement Learning, MATLAB, Unmanned Aerial & Ground Vehicles
 
 **GitHub:**
-* [https://github.com/tanjunkai2001/FT-SRL-Quadcopter](https://github.com/tanjunkai2001/FT-SRL-Quadcopter) (2025 Information Sciences)
+* [https://github.com/tanjunkai2001/FT-SRL-Quadcopter](https://github.com/tanjunkai2001/FT-SRL-Quadcopter) (2025 ***Information Sciences***)
 <!-- ![Unmanned Systems Control](/images/unmanned_systems_control2.png) -->
-* [https://github.com/tanjunkai2001/FT-RL-PEG-sim1](https://github.com/tanjunkai2001/FT-RL-PEG-sim1) (2025 Nonlinear Dynamics)
+* [https://github.com/tanjunkai2001/FT-RL-PEG-sim1](https://github.com/tanjunkai2001/FT-RL-PEG-sim1) (2025 ***Nonlinear Dynamics***)
 * [https://github.com/tanjunkai2001/FxT-CL-ACI](https://github.com/tanjunkai2001/FxT-CL-ACI))
 
 This ongoing research focuses on developing advanced control methodologies for unmanned systems:
@@ -41,7 +41,7 @@ The project aims to enhance the reliability and performance of autonomous system
 
 **Tools:** Optimal Control, Reinforcement Learning, Game Theory, MATLAB, Unmanned Aerial Vehicles
 
-**GitHub:** [https://github.com/tanjunkai2001/human-machine-safe](https://github.com/tanjunkai2001/human-machine-safe) (2025 IJRNC)
+**GitHub:** [https://github.com/tanjunkai2001/human-machine-safe](https://github.com/tanjunkai2001/human-machine-safe) (2025 ***IJRNC***)
 
 In this research project, I focused on developing advanced methodologies for enhancing human-machine collaboration in complex systems:
 
