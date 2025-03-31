@@ -47,6 +47,6 @@ You can find my CV here: [web](https://tanjunkai2001.github.io/cv/) \ [pdf-en](.
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="160" />
-  <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="150" />
 </div>
