@@ -1,0 +1,35 @@
+{% capture location_title %}
+    {% if post.location_title %}
+        {{ post.location_title }}
+    {% else %}
+        {{ post.venue }}
+    {% endif %}
+{% endcapture %}
+
+<div class="archive-single-position">
+    <div class="position-container">
+        {% if post.location_url %}
+            <h3 class="position-title"><a href="{{ post.location_url }}">{{ location_title }}</a></h3>
+        {% else %}
+            <h3 class="position-title">{{ location_title }}</h3>
+        {% endif %}
+        
+        {% if post.location_address %}
+            <p class="position-address">{{ post.location_address }}</p>
+        {% endif %}
+
+        {% if post.date %}
+            <p class="position-date">{{ post.date | default: "1900-01-01" | date: "%B %Y" }}</p>
+        {% endif %}
+
+        {% if post.description %}
+            <p class="position-description">{{ post.description }}</p>
+        {% endif %}
+
+        {% if post.map_embed %}
+            <div class="position-map">
+                {{ post.map_embed }}
+            </div>
+        {% endif %}
+    </div>
+</div></div>

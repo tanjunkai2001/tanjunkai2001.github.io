@@ -63,3 +63,29 @@ You can find my CV here: [Web Version](https://tanjunkai2001.github.io/cv/) | [E
   <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="150" />
   <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="150" />
 </div>
+
+
+
+
+<!-- # 我的位置
+
+这是我在香港大学的地址，显示在地图上： -->
+
+<div id="map" style="height: 400px; width: 100%;"></div>
+
+<script>
+  var map = L.map('map').setView([22.2855, 114.1585], 13);  // 设置位置坐标（香港大学）
+  
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+  
+  L.marker([22.2855, 114.1585]).addTo(map)
+    .bindPopup('Rm 801 Chow Yei Ching Building, The University of Hong Kong')
+    .openPopup();
+</script>
+
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
