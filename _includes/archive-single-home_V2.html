@@ -28,15 +28,15 @@
 
     {% if post.image %}
       <div class="archive__item-image-container" style="float: right; margin-left: 15px; text-align: right;">
-      <img src="{{ base_path }}/images/{{ post.title }}.png" alt="{{ post.title }}" class="archive__item-image" style="max-width: 210px; max-height: 120px; object-fit: contain; border: 1px solid #ddd; border-radius: 4px; padding: 3px; vertical-align: top;">
+      <img src="{{ base_path }}/images/{{ post.title }}.png" alt="{{ post.title }}" class="archive__item-image" style="max-width: 210px; max-height: 135px; object-fit: contain; border: 1px solid #ddd; border-radius: 4px; padding: 3px; vertical-align: top;">
       </div>
     {% endif %}
     
-    <h2 class="archive__item-title" itemprop="headline" style="font-size: 1.2em;"></h2>
+    <h2 class="archive__item-title" itemprop="headline" style="font-size: 1.2em;">
       {% if post.link %}
-      <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
     
@@ -44,13 +44,13 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</p>
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
+      {% if post.collection == 'teaching' %}
+        <p style="font-size: 0.9em;"> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      {% elsif post.collection == 'publications' %}
+        <p style="font-size: 0.9em;">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</p>
+      {% elsif post.date %}
+        <p class="page__date" style="font-size: 0.9em;"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+      {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
@@ -59,33 +59,33 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.code %}
-      <p>Authors: <span style="color: #555;">{{ post.citation }}</span><br />
+      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation }}</span><br />
       <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ post.code }}">Code</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p>Authors: <span style="color: #555;">{{ post.citation }}</span><br />
+      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation }}</span><br />
       <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation and post.code %}
-      <p>Authors: <span style="color: #555;">{{ post.citation }}</span><br />
+      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation }}</span><br />
       <a href="{{ post.code }}">Code</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation %}
-      <p>Authors: <span style="color: #555;">{{ post.citation }}</span><br />
+      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation }}</span><br />
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.paperurl %}
-      <p>
+      <p style="font-size: 0.85em;"></p>
       <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a>
       </p>
     {% elsif post.code %}
-      <p>
+      <p style="font-size: 0.85em;">
       <a href="{{ post.code }}">Code</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a>
       </p>
     {% else %}
-      <p><a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
+      <p style="font-size: 0.85em;"><a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% endif %}
 
   </article>
