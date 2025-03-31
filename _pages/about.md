@@ -36,7 +36,7 @@ My research interests include:
 
 Detailed publications and open-source code can be found in my [Publications](https://tanjunkai2001.github.io/publications/) page.
 
-You can find my CV here: [web](https://tanjunkai2001.github.io/cv/) \ [pdf-EN](../assets/Curriculum_Vitae.pdf) \ [pdf-CN](../assets/简历_谭浚楷_中文_V2.pdf).
+You can find my CV here: [web](https://tanjunkai2001.github.io/cv/) \ [pdf-en](../assets/Curriculum_Vitae.pdf) \ [pdf-cn](../assets/简历_谭浚楷_中文_V2.pdf).
 
 
 <!-- ## 📫 Contact | 联系方式 -->
@@ -47,6 +47,6 @@ You can find my CV here: [web](https://tanjunkai2001.github.io/cv/) \ [pdf-EN](.
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="180" />
-    <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="160" />
 </div>
