@@ -59,20 +59,20 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.code %}
-      <p>Authors: <span style="color: #555;">{{ post.citation | replace: post.citation | split: ',' | first, '<strong>' | append: post.citation | split: ',' | first | append: '</strong>' }}</span><br />
+      <p>Authors: <span style="color: #555;">{{ post.citation }}</span><br />
       <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ post.code }}">Code</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p>Authors: <span style="color: #555;">{{ post.citation | replace: post.citation | split: ',' | first, '<strong>' | append: post.citation | split: ',' | first | append: '</strong>' }}</span><br />
+      <p>Authors: <span style="color: #555;">{{ post.citation }}</span><br />
       <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation and post.code %}
-      <p>Authors: <span style="color: #555;">{{ post.citation | replace: post.citation | split: ',' | first, '<strong>' | append: post.citation | split: ',' | first | append: '</strong>' }}</span><br />
+      <p>Authors: <span style="color: #555;">{{ post.citation }}</span><br />
       <a href="{{ post.code }}">Code</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation %}
-      <p>Authors: <span style="color: #555;">{{ post.citation | replace: post.citation | split: ',' | first, '<strong>' | append: post.citation | split: ',' | first | append: '</strong>' }}</span><br />
+      <p>Authors: <span style="color: #555;">{{ post.citation }}</span><br />
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.paperurl %}
       <p>
