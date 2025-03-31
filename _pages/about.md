@@ -19,19 +19,28 @@ I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/we
 ## 🔬 Research Interests
 My research interests focus on two primary areas:
 
-- **Data-Driven Unmanned Systems Approximate Optimal Control**  
-  Developing control algorithms that leverage data to optimize unmanned system performance  
-  *Published in **IEEE TASE**, **INS**, **Nonlinear Dynamics***
+- **Data-Driven Unmanned Systems Approximate Optimal Control**:
+  Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE**, **INS**, **Nonlinear Dynamics***
 
 - **Human-Machine Hybrid Enhanced Shared Optimal Control**  
-  Creating systems that combine human expertise with machine capabilities for superior control  
-  *Published in **Neurocomputing**, **IJRNC**, **JAI***
+  Creating systems that combine human expertise with machine capabilities for superior control. *Published in **Neurocomputing**, **IJRNC**, **JAI***
 
 <!-- ## 💻 Core Competencies
 - **Theoretical Research**: Solid foundation in advanced control and reinforcement learning theory. Leading research on human-machine hybrid control with publications in top journals including IEEE TASE, Information Sciences, and Nonlinear Dynamics.
 - **Engineering Practice**: Extensive experience with unmanned systems development, including UAV-UGV collaborative control projects and multi-unmanned system hardware platforms based on optical motion capture systems. -->
 
+
+
+## 📄 Curriculum Vitae
+You can find my CV here: [Web Version](https://tanjunkai2001.github.io/cv/) | [English PDF](../assets/Curriculum_Vitae.pdf) | [Chinese PDF](../assets/简历_谭浚楷_中文_V2.pdf)
+
+## 🔗 Connect With Me
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjk@stu.xjtu.edu.cn) [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](../images/Wechat.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junkai-tan-366790268/)
+
+
 ## 📝 Selected Publications
+
+Detailed publications and open-source code can be found in my [Publications](https://tanjunkai2001.github.io/publications/) page.
 
 <!-- 1. "[Prescribed performance robust approximate optimal tracking control via Stackelberg game](https://ieeexplore.ieee.org/document/10916718)", *IEEE Transactions on Automation Science and Engineering*, 2025.
 2. "[Finite-time safe reinforcement learning control of multi-player nonzero-sum game for quadcopter systems](https://www.sciencedirect.com/science/article/pii/S002002552500249X)", *Information Sciences*, 2025.
@@ -45,14 +54,6 @@ My research interests focus on two primary areas:
   {% endif %}
 {% endfor %}
 
-
-Detailed publications and open-source code can be found in my [Publications](https://tanjunkai2001.github.io/publications/) page.
-
-## 📄 Curriculum Vitae
-You can find my CV here: [Web Version](https://tanjunkai2001.github.io/cv/) | [English PDF](../assets/Curriculum_Vitae.pdf) | [Chinese PDF](../assets/简历_谭浚楷_中文_V2.pdf)
-
-## 🔗 Connect With Me
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjk@stu.xjtu.edu.cn) [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](../images/Wechat.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junkai-tan-366790268/)
 
 
 <!-- ## 📫 Contact | 联系方式
