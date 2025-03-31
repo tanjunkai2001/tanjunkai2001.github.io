@@ -26,13 +26,13 @@ I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/we
 
 
 ## 🔬 Research Interests
-My research interests focus on two primary areas:
+My research interests focus on two primary areas with 7 first-author top journal publications:
 
 - **Data-Driven Unmanned Systems Approximate Optimal Control**:
-  Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE**, **INS**, **Nonlinear Dynamics***
+  Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE**(1 accept, 1 in revision), **Nonlinear Dynamics**(1 accept, 1 in revision), **INS***.
 
 - **Human-Machine Hybrid Enhanced Shared Optimal Control**  
-  Creating systems that combine human expertise with machine capabilities for superior control. *Published in **Neurocomputing**, **IJRNC**, **JAI***
+  Creating systems that combine human expertise with machine capabilities for superior control. *Published in **Neurocomputing**, **IJRNC**, **JAI***.
 
 <!-- ## 💻 Core Competencies
 - **Theoretical Research**: Solid foundation in advanced control and reinforcement learning theory. Leading research on human-machine hybrid control with publications in top journals including IEEE TASE, Information Sciences, and Nonlinear Dynamics.
@@ -68,8 +68,8 @@ Detailed publications and open-source code can be found in my [Publications](htt
 
 ## 📊 GitHub Stats
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
-  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001" alt="Top Languages" height="150" style="max-height: 150px;" />
-  <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="150" style="max-height: 150px;" />
+  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="135" style="max-height: 135px;" />
+  <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="135" style="max-height: 135px;" />
 </div>
 
 
