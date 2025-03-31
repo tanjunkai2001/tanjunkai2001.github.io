@@ -16,6 +16,15 @@ I’m a second-year graduate student from [School of Electrical Engineering](htt
 
 I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/web/huicao) and [Prof. Shuangsi Xue](https://gr.xjtu.edu.cn/en/web/xssxjtu) of BIR Lab, Xi'an Jiaotong University. I am also a student of the [Industrial Automation Lab](https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm).
 
+
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) 
+
+<!-- ## 🔗 Connect With Me -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjk@stu.xjtu.edu.cn) [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](../images/Wechat.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junkai-tan-366790268/)
+
+
+
 ## 🔬 Research Interests
 My research interests focus on two primary areas:
 
@@ -34,8 +43,6 @@ My research interests focus on two primary areas:
 ## 📄 Curriculum Vitae
 You can find my CV here: [Web Version](https://tanjunkai2001.github.io/cv/) | [English PDF](../assets/Curriculum_Vitae.pdf) | [Chinese PDF](../assets/简历_谭浚楷_中文_V2.pdf)
 
-## 🔗 Connect With Me
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjk@stu.xjtu.edu.cn) [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](../images/Wechat.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junkai-tan-366790268/)
 
 
 ## 📝 Selected Publications
@@ -61,7 +68,7 @@ Detailed publications and open-source code can be found in my [Publications](htt
 
 ## 📊 GitHub Stats
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
-  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="160" style="max-height: 160px;" />
+  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001" alt="Top Languages" height="160" style="max-height: 160px;" />
   <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="160" style="max-height: 160px;" />
 </div>
 
