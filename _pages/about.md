@@ -11,10 +11,11 @@ redirect_from:
 
 
 <!-- ## 👨‍💼 About Me | 个人简介 -->
-I’m a second-year graduate student from [School of Electrical Engineering](https://ee.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interest include *robotics control*, *intelligent control*, *learning-based control*, and *unmanned system control*.
+I’m a second-year graduate student from [School of Electrical Engineering](https://ee.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research focuses on the development of *data-driven optimal control algorithms* for unmanned systems, with a particular emphasis on *human-machine hybrid enhanced shared optimal control*. I am also interested in *game theory* and its applications in *multi-agent systems*.
+ <!-- My research interest include *robotics control*, *intelligent control*, *learning-based control*, and *unmanned system control*. -->
 <!-- - 🌐 Personal Website: [tanjunkai2001.github.io](https://tanjunkai2001.github.io) -->
 
-I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/web/huicao) and [Prof. Shuangsi Xue](https://gr.xjtu.edu.cn/en/web/xssxjtu) of BIR Lab, Xi'an Jiaotong University. I am also a student of the [Industrial Automation Lab](https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm).
+I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/web/huicao) and [Prof. Shuangsi Xue](https://gr.xjtu.edu.cn/en/web/xssxjtu) of BIR Lab, School of EE, Xi'an Jiaotong University. I am also a student of the [Industrial Automation Lab](https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm).
 
 
 
@@ -28,10 +29,10 @@ I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/we
 ## 🔬 Research Interests
 My research interests focus on two primary areas with 7 first-author top journal publications:
 
-1. ***Data-Driven Unmanned Systems Approximate Optimal Control:***
+1. ***Data-Driven Unmanned Systems Optimal Control:***
   Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE**(1 accept, 1 in revision), **Nonlinear Dynamics**(1 accept, 1 in revision), **INS***.
 
-2. ***Human-Machine Hybrid Enhanced Shared Optimal Control:***
+1. ***Human-Machine Hybrid Enhanced Shared Optimal Control:***
   Creating systems that combine human expertise with machine capabilities for superior control. *Published in **Neurocomputing**, **IJRNC**, **JAI***.
 
 <!-- ## 💻 Core Competencies
