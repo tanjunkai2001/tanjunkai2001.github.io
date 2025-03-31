@@ -11,29 +11,29 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electrical Engineering, Xi'an Jiaotong University (C9 & 985 Project University), Sep 2023 - Jun 2026
-  * GPA: 91.59/100 (Ranked 3/45, Top 7%)
+* **M.S. in Electrical Engineering**, Xi'an Jiaotong University (C9 & 985 Project University), Sep 2023 - Jun 2026
+  * GPA: **91.59/100** (Ranked **3/45**, Top 7%)
   * School of Electrical Engineering - Industrial Enterprise Direction
 
-* B.E. in Electrical Engineering and Automation, Xi'an Jiaotong University (C9 & 985 Project University), Sep 2019 - Jun 2023
-  * GPA: 90.58/100 (Ranked 29/356, Top 8%)
+* **B.E. in Electrical Engineering and Automation**, Xi'an Jiaotong University (C9 & 985 Project University), Sep 2019 - Jun 2023
+  * GPA: **90.58/100** (Ranked 29/356, Top 8%)
   * School of Electrical Engineering
 
 Research Projects
 ======
-* Human-Machine Hybrid Enhancement Research for Data-Driven Shared Optimal Performance, May 2022 - Dec 2024
-  * Tools: Optimal Control, Reinforcement Learning, Game Theory, MATLAB, Unmanned Aerial Vehicles
-  * Developed safety-guarding RL method for optimal shared control in pilot-UAV interactive systems
-  * Implemented Nash equilibrium game and level-k rationality model to enhance human-machine collaboration stability
-  * Created data-driven interaction modeling approach to optimize human-machine cooperative strategies
-  * Published 3 first-author journal papers in Neurocomputing, JAI, IJICS and obtained 3 national patents
-
-* Finite-Time Tracking Control Research for Unmanned Systems with Prescribed Performance, Aug 2023 - Present
+* **Finite-Time Tracking Control Research for Unmanned Systems with Prescribed Performance**, Aug 2023 - Present
   * Tools: Optimal Control, Game Theory, Reinforcement Learning, MATLAB, Unmanned Aerial & Ground Vehicles
-  * Developed Stackelberg game-based reinforcement learning framework for robust optimal control
+  * Developed **Stackelberg game-based reinforcement learning framework** for robust optimal control
   * Implemented prescribed performance constraints for efficient tracking control in nonlinear systems
   * Created novel game-theoretic optimization method for high-dimensional nonlinear systems
-  * Published 3 first-author papers in IEEE TASE, Nonlinear Dynamics, IJRNC and presented at ASCC, ICARM, ICDL
+  * Published **3 first-author papers** in IEEE TASE, Nonlinear Dynamics, Information Sciences and presented at ASCC, ICARM, ICDL
+
+* **Human-Machine Hybrid Enhancement Research for Data-Driven Shared Optimal Performance**, May 2022 - Dec 2024
+  * Tools: Optimal Control, Reinforcement Learning, Game Theory, MATLAB, Unmanned Aerial Vehicles
+  * Developed **safety-guarding RL method** for optimal shared control in pilot-UAV interactive systems
+  * Implemented **Nash equilibrium game and level-k rationality model** to enhance human-machine collaboration stability
+  * Created data-driven interaction modeling approach to optimize human-machine cooperative strategies
+  * Published **3 first-author journal papers** in Neurocomputing, IJRNC, JAI and obtained **3 national patents**
 
 Skills
 ======
@@ -92,8 +92,6 @@ Honors and Awards
   * **Outstanding Fitness Team Leader**, Xi'an Jiaotong University, Jul 2024
   * **Special Graduate Scholarship**, Xi'an Jiaotong University, Oct 2024
 
-Service and leadership
-======
 Service and leadership
 ======
 * Reviewer for international journals/conferences including:
