@@ -1,0 +1,66 @@
+<div class="project-card">
+  <div class="project-card-image">
+    <img src="{{ base_path }}/images/{{ post.title }}.png" alt="{{ post.title }}">
+  </div>
+  <div class="project-card-details">
+    <h2 class="project-title">{{ title }}</h2>
+    <p class="project-authors">{{ post.authors }}</p>
+    <p class="project-summary">{{ post.excerpt | markdownify }}</p>
+    <div class="project-links">
+      <a href="{{ post.paperurl }}">Paper</a> |
+      <a href="{{ post.code }}">Code</a> |
+      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download PDF</a>
+    </div>
+  </div>
+</div>
+
+<style>
+.project-card {
+  display: flex;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #fff;
+}
+
+.project-card-image {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.project-card-image img {
+  max-width: 150px;
+  max-height: 100px;
+  object-fit: contain;
+}
+
+.project-card-details {
+  flex: 3;
+}
+
+.project-title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.project-authors {
+  font-size: 1.2em;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.project-summary {
+  margin-bottom: 15px;
+}
+
+.project-links a {
+  margin-right: 10px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.project-links a:hover {
+  text-decoration: underline;
+}
+</style>
