@@ -19,10 +19,12 @@ I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/we
 
 
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) 
+### Links
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junkai-Tan-2) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1234--5678?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1234-5678)
 
-<!-- ## 🔗 Connect With Me -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjk@stu.xjtu.edu.cn) [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](../images/Wechat.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junkai-tan-366790268/)
+
+### Contact me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjk@stu.xjtu.edu.cn) [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](../images/Wechat.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junkai-tan-366790268/) [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/tan-91-64)
 
 
 
@@ -69,8 +71,8 @@ Detailed publications and open-source code can be found in my [Publications](htt
 
 ## 📊 GitHub Stats
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
-  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="135" style="max-height: 135px;" />
-  <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="135" style="max-height: 135px;" />
+  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="160" style="max-height: 160px;" />
+  <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="160" style="max-height: 160px;" />
 </div>
 
 
@@ -89,4 +91,4 @@ Currently located at:
 **Innovation Harbor, Building 3, Xi'an Jiaotong University**  
 Xi'an, Shaanxi 710049, P.R. China
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.9025899306145!2d108.65573260987424!3d34.25227480045932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x366379efa86d5f73%3A0x46cfa915001c3d15!2sInnovation%20Harbor%2C%20Xi%27an%20Jiaotong%20University!5e0!3m2!1sen!2scn!4v1682500456789!5m2!1sen!2scn&maptype=satellite" width="600" height="400" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.9025899306145!2d108.65573260987424!3d34.25227480045932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x366379efa86d5f73%3A0x46cfa915001c3d15!2sInnovation%20Harbor%2C%20Xi%27an%20Jiaotong%20University!5e0!3m2!1sen!2scn!4v1682500456789!5m2!1sen!2scn&maptype=satellite" width="800" height="400" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
