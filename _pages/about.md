@@ -58,10 +58,9 @@ You can find my CV here: [Web Version](https://tanjunkai2001.github.io/cv/) | [E
 <!-- ## 📫 Contact | 联系方式
 - 📧 Email: tanjk@stu.xjtu.edu.cn -->
 
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="150" />
-  <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="150" />
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+  <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="150" style="max-height: 150px;" />
+  <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="150" style="max-height: 150px;" />
 </div>
 
 
@@ -76,10 +75,8 @@ You can find my CV here: [Web Version](https://tanjunkai2001.github.io/cv/) | [E
 
 ## 📍 Location
 
-## 📍 Location
-
 Currently located at:  
 **Innovation Harbor, Building 3, Xi'an Jiaotong University**  
-Xi'an, Shaanxi, China
+Xi'an, Shaanxi 710049, P.R. China
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.9025899306145!2d108.65573260987424!3d34.25227480045932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x366379efa86d5f73%3A0x46cfa915001c3d15!2sInnovation%20Harbor%2C%20Xi%27an%20Jiaotong%20University!5e0!3m2!1sen!2scn!4v1682500456789!5m2!1sen!2scn&maptype=satellite" width="800" height="400" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.9025899306145!2d108.65573260987424!3d34.25227480045932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x366379efa86d5f73%3A0x46cfa915001c3d15!2sInnovation%20Harbor%2C%20Xi%27an%20Jiaotong%20University!5e0!3m2!1sen!2scn!4v1682500456789!5m2!1sen!2scn&maptype=satellite" width="750" height="400" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
