@@ -28,10 +28,10 @@ I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/we
 ## 🔬 Research Interests
 My research interests focus on two primary areas with 7 first-author top journal publications:
 
-- **Data-Driven Unmanned Systems Approximate Optimal Control**:
+1. ***Data-Driven Unmanned Systems Approximate Optimal Control:***
   Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE**(1 accept, 1 in revision), **Nonlinear Dynamics**(1 accept, 1 in revision), **INS***.
 
-- **Human-Machine Hybrid Enhanced Shared Optimal Control**  
+2. ***Human-Machine Hybrid Enhanced Shared Optimal Control:***
   Creating systems that combine human expertise with machine capabilities for superior control. *Published in **Neurocomputing**, **IJRNC**, **JAI***.
 
 <!-- ## 💻 Core Competencies
