@@ -16,16 +16,20 @@ I’m a second-year graduate student from [School of Electrical Engineering](htt
 
 I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/web/huicao) and [Prof. Shuangsi Xue](https://gr.xjtu.edu.cn/en/web/xssxjtu) of BIR Lab, Xi'an Jiaotong University. I am also a student of the [Industrial Automation Lab](https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm).
 
-
-
 ## 🔬 Research Interests
-My research interests include:
-- Data-Driven Unmanned Systems Optimal Control (数据驱动的无人系统最优控制, *IEEE TASE*, *INS*, *NoDy*)
-- Human-Machine Hybrid Enhanced Control (人机混合增强控制, *Neurocomputing*, *IJRNC*)
+My research interests focus on two primary areas:
 
-## 💻 Core Competencies
+- **Data-Driven Unmanned Systems Approximate Optimal Control**  
+  Developing control algorithms that leverage data to optimize unmanned system performance  
+  *Published in **IEEE TASE**, **INS**, **Nonlinear Dynamics***
+
+- **Human-Machine Hybrid Enhanced Shared Optimal Control**  
+  Creating systems that combine human expertise with machine capabilities for superior control  
+  *Published in **Neurocomputing**, **IJRNC**, **JAI***
+
+<!-- ## 💻 Core Competencies
 - **Theoretical Research**: Solid foundation in advanced control and reinforcement learning theory. Leading research on human-machine hybrid control with publications in top journals including IEEE TASE, Information Sciences, and Nonlinear Dynamics.
-- **Engineering Practice**: Extensive experience with unmanned systems development, including UAV-UGV collaborative control projects and multi-unmanned system hardware platforms based on optical motion capture systems.
+- **Engineering Practice**: Extensive experience with unmanned systems development, including UAV-UGV collaborative control projects and multi-unmanned system hardware platforms based on optical motion capture systems. -->
 
 ## 📝 Selected Publications
 
@@ -34,13 +38,22 @@ My research interests include:
 3. "[Unmanned aerial-ground vehicle finite-time docking control via pursuit-evasion games](https://link.springer.com/10.1007/s11071-025-11021-6)", *Nonlinear Dynamics*, 2025.
 4. "[Data-driven optimal shared control of unmanned aerial vehicles](https://www.sciencedirect.com/science/article/pii/S0925231225001006)", *Neurocomputing*, 2025.
 
+
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'journal' %}
+    {% include archive-single-home_V2.html %}
+  {% endif %}
+{% endfor %}
+
+
 Detailed publications and open-source code can be found in my [Publications](https://tanjunkai2001.github.io/publications/) page.
 
-You can find my CV here: [web](https://tanjunkai2001.github.io/cv/) \ [pdf-en](../assets/Curriculum_Vitae.pdf) \ [pdf-cn](../assets/简历_谭浚楷_中文_V2.pdf).
+## 📄 Curriculum Vitae
+You can find my CV here: [Web Version](https://tanjunkai2001.github.io/cv/) | [English PDF](../assets/Curriculum_Vitae.pdf) | [Chinese PDF](../assets/简历_谭浚楷_中文_V2.pdf)
 
+## 🔗 Connect With Me
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjk@stu.xjtu.edu.cn) [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](../images/Wechat.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junkai-tan-366790268/)
 
-<!-- ## 📫 Contact | 联系方式 -->
-[Google Scholar](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) \ [GitHub](https://github.com/tanjunkai2001) \ [Email](mailto:tanjk@stu.xjtu.edu.cn) \ [Blog](https://tanjunkai2001.github.io/blog) \ [LinkedIn](https://www.linkedin.com/in/junkai-tan-366790268/)
 
 <!-- ## 📫 Contact | 联系方式
 - 📧 Email: tanjk@stu.xjtu.edu.cn -->
