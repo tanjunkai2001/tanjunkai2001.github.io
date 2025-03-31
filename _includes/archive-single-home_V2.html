@@ -28,7 +28,7 @@
 
     {% if post.image %}
       <div class="archive__item-image-container" style="float: right; margin-left: 15px; text-align: right;">
-      <img src="{{ base_path }}/images/{{ post.title }}.png" alt="{{ post.title }}" class="archive__item-image" style="max-width: 300px; max-height: 300px; object-fit: contain; border: 1px solid #ddd; border-radius: 4px; padding: 3px; vertical-align: top;">
+      <img src="{{ base_path }}/images/{{ post.title }}.png" alt="{{ post.title }}" class="archive__item-image" style="max-width: 200px; max-height: 200px; object-fit: contain; border: 1px solid #ddd; border-radius: 4px; padding: 3px; vertical-align: top;">
       </div>
     {% endif %}
     
@@ -59,20 +59,20 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.code %}
-      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br />
+      <p>Authors: <span style="color: #555;">{{ post.citation | replace: post.citation | split: ',' | first, '<strong>' | append: post.citation | split: ',' | first | append: '</strong>' }}</span><br />
       <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ post.code }}">Code</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br />
+      <p>Authors: <span style="color: #555;">{{ post.citation | replace: post.citation | split: ',' | first, '<strong>' | append: post.citation | split: ',' | first | append: '</strong>' }}</span><br />
       <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation and post.code %}
-      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br />
+      <p>Authors: <span style="color: #555;">{{ post.citation | replace: post.citation | split: ',' | first, '<strong>' | append: post.citation | split: ',' | first | append: '</strong>' }}</span><br />
       <a href="{{ post.code }}">Code</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br />
+      <p>Authors: <span style="color: #555;">{{ post.citation | replace: post.citation | split: ',' | first, '<strong>' | append: post.citation | split: ',' | first | append: '</strong>' }}</span><br />
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.paperurl %}
       <p>
