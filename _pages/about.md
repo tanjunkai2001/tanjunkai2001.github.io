@@ -71,21 +71,15 @@ You can find my CV here: [Web Version](https://tanjunkai2001.github.io/cv/) | [E
 
 这是我在香港大学的地址，显示在地图上： -->
 
-<div id="map" style="height: 400px; width: 100%;"></div>
 
-<script>
-  var map = L.map('map').setView([22.2855, 114.1585], 13);  // 设置位置坐标（香港大学）
-  
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-  }).addTo(map);
-  
-  L.marker([22.2855, 114.1585]).addTo(map)
-    .bindPopup('Rm 801 Chow Yei Ching Building, The University of Hong Kong')
-    .openPopup();
-</script>
 
-<head>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-</head>
+
+## 📍 Location
+
+## 📍 Location
+
+Currently located at:  
+**Innovation Harbor, Building 3, Xi'an Jiaotong University**  
+Xi'an, Shaanxi, China
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.9025899306145!2d108.65573260987424!3d34.25227480045932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x366379efa86d5f73%3A0x46cfa915001c3d15!2sInnovation%20Harbor%2C%20Xi%27an%20Jiaotong%20University!5e0!3m2!1sen!2scn!4v1682500456789!5m2!1sen!2scn&maptype=satellite" width="800" height="400" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
