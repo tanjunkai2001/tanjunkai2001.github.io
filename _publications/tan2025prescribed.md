@@ -2,7 +2,7 @@
 title: "Prescribed Performance Robust Approximate Optimal Tracking Control Via Stackelberg Game"
 collection: publications
 permalink: /publication/tan2025prescribed
-date: 2025-03-07 00:00:00 +0500
+date: 2025-06-15 00:00:00 +0500
 venue: 'IEEE Transactions on Automation Science and Engineering'
 paperurl: 'https://ieeexplore.ieee.org/document/10916718/'
 doi: '10.1109/TASE.2025.3549114'

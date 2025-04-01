@@ -2,7 +2,7 @@
 title: "Human–AI interactive optimized shared control"
 collection: publications
 permalink: /publication/tan2025human–ai
-date: 2025-01-07 00:00:00 +0500
+date: 2025-01-15 00:00:00 +0500
 venue: 'Journal of Automation and Intelligence'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S2949855425000024'
 doi: '10.1016/j.jai.2025.01.001'

@@ -8,7 +8,6 @@ paperurl: 'https://link.springer.com/10.1007/s11071-025-11021-6'
 doi: '10.1007/s11071-025-11021-6'
 pubtype: 'journal'
 image: '../images/Nonlinear Dynamics.jpg'
-code: 'https://github.com/tanjunkai2001/FT-RL-PEG-sim1'
 citation: 'Tan, Junkai and Xue, Shuangsi and Guan, Qingshu and Niu, Tiansen and Cao, Hui and Chen, Badong (2025). Unmanned aerial-ground vehicle finite-time docking control via pursuit-evasion games. Nonlinear Dynamics.'
 authors: 'J. Tan, S. Xue, Q. Guan, T. Niu, H. Cao, B. Chen'
 excerpt_separator: ""
