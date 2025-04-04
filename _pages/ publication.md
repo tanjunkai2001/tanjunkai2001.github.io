@@ -17,7 +17,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Journal Articles (First Author/Student First Author)
+## Journal Articles (First Author/First Student Author)
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
