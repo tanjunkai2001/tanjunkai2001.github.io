@@ -17,7 +17,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Journal Articles
+## Journal Articles (First Author/Student First Author)
+
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
     {% include archive-single_V2.html %}
