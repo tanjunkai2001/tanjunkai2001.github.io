@@ -1,12 +1,13 @@
 ---
-title: "Safe stabilization control for interconnected virtual-real systems via model-based reinforcement learning"
+title: "Safe Stabilization Control for Interconnected Virtual-Real Systems via Model-Based Reinforcement Learning"
 collection: publications
 permalink: /publication/tan2024safe
 date: 2024-07-15 00:00:00 +0500
 venue: '2024 14th Asian Control Conference (ASCC)'
 paperurl: 'https://ieeexplore.ieee.org/document/10665364/?arnumber=10665364'
 pubtype: 'conference'
-citation: 'Tan, Jun Kai and Xue, Shuang Si and Li, Huan and Cao, Hui and Li, Dong Yu (2024). Safe stabilization control for interconnected virtual-real systems via model-based reinforcement learning. 2024 14th Asian Control Conference (ASCC).'
+code: 'https://github.com/tanjunkai2001/FT-SRL-Quadcopter'
+citation: 'Tan, Jun Kai and Xue, Shuang Si and Li, Huan and Cao, Hui and Li, Dong Yu (2024). Safe Stabilization Control for Interconnected Virtual-Real Systems via Model-Based Reinforcement Learning. 2024 14th Asian Control Conference (ASCC).'
 authors: 'J. K. Tan, S. S. Xue, H. Li, H. Cao, D. Y. Li'
 excerpt_separator: ""
 ---

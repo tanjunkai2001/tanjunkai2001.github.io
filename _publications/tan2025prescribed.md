@@ -8,6 +8,7 @@ paperurl: 'https://ieeexplore.ieee.org/document/10916718/'
 doi: '10.1109/TASE.2025.3549114'
 pubtype: 'journal'
 image: '../images/IEEE Transactions on Automation Science and Engineering.jpg'
+code: 'https://github.com/tanjunkai2001/FT-SRL-Quadcopter'
 citation: 'Tan, Junkai and Xue, Shuangsi and Li, Huan and Guo, Zihang and Cao, Hui and Li, Dongyu (2025). Prescribed Performance Robust Approximate Optimal Tracking Control Via Stackelberg Game. IEEE Transactions on Automation Science and Engineering.'
 authors: 'J. Tan, S. Xue, H. Li, Z. Guo, H. Cao, D. Li'
 excerpt_separator: ""

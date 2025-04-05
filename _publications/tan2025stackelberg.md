@@ -1,5 +1,5 @@
 ---
-title: "Stackelberg game-based robust optimal control of cyber-physical system under hybrid attacks"
+title: "Stackelberg Game-Based Robust Optimal Control of Cyber-Physical System under Hybrid Attacks"
 collection: publications
 permalink: /publication/tan2025stackelberg
 date: 2025-02-27 00:00:00 +0500
@@ -7,7 +7,8 @@ venue: 'The International Journal of Intelligent Control and Systems'
 paperurl: 'https://www.ijics.cn/article/145'
 pubtype: 'journal'
 image: '../images/The International Journal of Intelligent Control and Systems.jpg'
-citation: 'Tan, Junkai and Xue, Shuangsi and Cao, Hui (2025). Stackelberg game-based robust optimal control of cyber-physical system under hybrid attacks. The International Journal of Intelligent Control and Systems.'
+code: 'https://github.com/tanjunkai2001/FT-SRL-Quadcopter'
+citation: 'Tan, Junkai and Xue, Shuangsi and Cao, Hui (2025). Stackelberg Game-Based Robust Optimal Control of Cyber-Physical System under Hybrid Attacks. The International Journal of Intelligent Control and Systems.'
 authors: 'J. Tan, S. Xue, H. Cao'
 excerpt_separator: ""
 ---

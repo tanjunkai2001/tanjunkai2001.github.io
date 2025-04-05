@@ -7,6 +7,7 @@ venue: '2023 IEEE International Conference on Development and Learning (ICDL)'
 paperurl: 'https://ieeexplore.ieee.org/document/10364413/'
 doi: '10.1109/ICDL55364.2023.10364413'
 pubtype: 'conference'
+code: 'https://github.com/tanjunkai2001/FT-SRL-Quadcopter'
 citation: 'Tan, Junkai and Xue, Shuangsi and Cao, Hui and Li, Huan (2023). Safe Human-Machine Cooperative Game with Level-k Rationality Modeled Human Impact. 2023 IEEE International Conference on Development and Learning (ICDL).'
 authors: 'J. Tan, S. Xue, H. Cao, H. Li'
 excerpt_separator: ""

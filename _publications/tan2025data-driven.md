@@ -1,5 +1,5 @@
 ---
-title: "Data-driven optimal shared control of unmanned aerial vehicles"
+title: "Data-Driven Optimal Shared Control of Unmanned Aerial Vehicles"
 collection: publications
 permalink: /publication/tan2025data-driven
 date: 2025-03-15 00:00:00 +0500
@@ -8,7 +8,8 @@ paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S0925231225001006'
 doi: '10.1016/j.neucom.2025.129428'
 pubtype: 'journal'
 image: '../images/Neurocomputing.jpg'
-citation: 'Tan, Junkai and Xue, Shuangsi and Guo, Zihang and Li, Huan and Cao, Hui and Chen, Badong (2025). Data-driven optimal shared control of unmanned aerial vehicles. Neurocomputing.'
+code: 'https://github.com/tanjunkai2001/FT-SRL-Quadcopter'
+citation: 'Tan, Junkai and Xue, Shuangsi and Guo, Zihang and Li, Huan and Cao, Hui and Chen, Badong (2025). Data-Driven Optimal Shared Control of Unmanned Aerial Vehicles. Neurocomputing.'
 authors: 'J. Tan, S. Xue, Z. Guo, H. Li, H. Cao, B. Chen'
 excerpt_separator: ""
 ---
