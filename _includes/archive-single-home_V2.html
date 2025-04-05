@@ -59,20 +59,20 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.code %}
-      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation }}</span><br />
+      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span><br />
       <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ post.code }}">Code</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation }}</span><br />
+      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span><br />
       <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation and post.code %}
-      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation }}</span><br />
+      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span><br />
       <a href="{{ post.code }}">Code</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.citation %}
-      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation }}</span><br />
+      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span><br />
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.paperurl %}
       <p style="font-size: 0.85em;"></p>

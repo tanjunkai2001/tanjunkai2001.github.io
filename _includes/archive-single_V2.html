@@ -60,24 +60,24 @@
     
     {% if post.citation and post.paperurl and post.code %}
       <!-- <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br /> -->
-      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " }}</span><br />
+      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span><br />
       <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ post.code }}">Code</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
-    {% elsif post.citation and post.paperurl %}
+        {% elsif post.citation and post.paperurl %}
       <!-- <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br /> -->
-      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation | replace: " and ", ", " }}</span><br />
-      <a href="{{ post.paperurl }}">Paper</a> | 
+        <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span><br />
+          <a href="{{ post.paperurl }}">Paper</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
-    {% elsif post.citation and post.code %}
+        {% elsif post.citation and post.code %}
       <!-- <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br /> -->
-      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation | replace: " and ", ", " }}</span><br />
-      <a href="{{ post.code }}">Code</a> | 
+        <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span><br />
+          <a href="{{ post.code }}">Code</a> | 
       <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
-    {% elsif post.citation %}
+        {% elsif post.citation %}
       <!-- <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation }}</span><br /> -->
-      <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation | replace: " and ", ", " }}</span><br />
-      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
+        <p>Recommended citation: <span style="font-style: italic; color: #555;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span><br />
+          <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% elsif post.paperurl %}
       <p>
       <a href="{{ post.paperurl }}">Paper</a> | 
