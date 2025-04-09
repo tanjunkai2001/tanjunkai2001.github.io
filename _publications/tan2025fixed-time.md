@@ -6,6 +6,7 @@ date: 2025-04-09 00:00:00 +0500
 venue: 'Nonlinear Dynamics'
 pubtype: 'journal'
 image: '../images/Nonlinear Dynamics.jpg'
+code: 'https://github.com/tanjunkai2001/FxT-CL-ACI'
 citation: 'Tan, Junkai and Xue, Shuangsi and Niu, Tiansen and Qu, Kai and Cao, Hui and Chen, Badong (2025). Fixed-time concurrent learning-based robust approximate optimal control. Nonlinear Dynamics.'
 authors: 'J. Tan, S. Xue, T. Niu, K. Qu, H. Cao, B. Chen'
 excerpt_separator: ""
