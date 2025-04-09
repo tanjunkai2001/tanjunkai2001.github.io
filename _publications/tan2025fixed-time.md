@@ -2,7 +2,7 @@
 title: "Fixed-time concurrent learning-based robust approximate optimal control"
 collection: publications
 permalink: /publication/tan2025fixed-time
-date: 2025-04-09 00:00:00 +0500
+date: 2025-04-29 00:00:00 +0500
 venue: 'Nonlinear Dynamics'
 pubtype: 'journal'
 image: '../images/Nonlinear Dynamics.jpg'
