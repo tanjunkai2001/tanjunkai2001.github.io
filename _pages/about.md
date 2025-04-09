@@ -40,7 +40,7 @@ My research interests focus on two primary areas with 7 first-author top journal
 
 
 ## 📄 Curriculum Vitae
-You can find my CV here: [Web Version](https://tanjunkai2001.github.io/cv/) | [English PDF](../assets/Curriculum_Vitae.pdf) | [Chinese PDF](../assets/简历_谭浚楷_中文_V2.pdf)
+You can find my CV here: [Web Version](https://tanjunkai2001.github.io/cv/) | [English PDF](../assets/Curriculum_Vitae.pdf) | [Chinese PDF](../assets/简历_谭浚楷_中文_V3.pdf)
 
 
 
