@@ -25,7 +25,7 @@ I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/we
 
 
 ## 🔬 Research Interests
-My research interests focus on two primary areas with 7 first-author top journal publications:
+My research interests focus on two primary areas with 8 first-author top journal publications in 2025:
 
 1. ***Data-Driven Unmanned Systems Optimal Control:***
   Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE** (1 published, 1 in revision), **Nonlinear Dynamics** (1 published, 1 accepted), **INS***.
@@ -59,6 +59,20 @@ Detailed publications and open-source code can be found in my [Publications](htt
     {% include archive-single-home_V2.html %}
   {% endif %}
 {% endfor %}
+
+
+
+## 👨‍💼 Professional Activities
+
+### Peer Review
+I serve as a reviewer for the following journals/conferences:
+  - IEEE Conference on Decision and Control (*IEEE CDC*)
+  - Engineering Applications of Artificial Intelligence (*EAAI*)
+  - Expert Systems with Applications (*ESWA*)
+  - Acta Astronautica
+  - Measurement
+
+You can verify my review activities via my [ORCID Profile](https://orcid.org/0009-0002-0558-6357).
 
 
 

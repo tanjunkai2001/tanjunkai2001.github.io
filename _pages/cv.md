@@ -97,6 +97,7 @@ Service and leadership
 * Reviewer for international journals/conferences including:
   * IEEE Conference on Decision and Control (IEEE CDC)
   * Engineering Applications of Artificial Intelligence (Elsevier)
+  * Expert Systems with Applications (Elsevier)
   * Acta Astronautica (Elsevier)
   * Measurement (Elsevier)
 * Session Chair of 2023 International Conference on Advanced Robotics and Mechatronics (ICARM)
