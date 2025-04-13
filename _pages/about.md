@@ -19,8 +19,12 @@ I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/we
 
 ### Scholar Links
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junkai-Tan-2) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1234--5678?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0558-6357)
+
 ### Contact me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjk@stu.xjtu.edu.cn) [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](../images/Wechat.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junkai-tan-366790268/) [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/tan-91-64) [![Rednote](https://img.shields.io/badge/Rednote-FF4D00?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/60bcf6040000000001001810)
+
+### 📄 Curriculum Vitae
+[![Web Version](https://img.shields.io/badge/Web_Version-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://tanjunkai2001.github.io/cv/) [![English PDF](https://img.shields.io/badge/English_PDF-DC3545?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](../assets/Curriculum_Vitae.pdf) [![Chinese PDF](https://img.shields.io/badge/Chinese_PDF-FFC107?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black)](../assets/简历_谭浚楷_中文_V3.pdf)
 
 
 
@@ -37,10 +41,6 @@ My research interests focus on two primary areas with 8 first-author top journal
 - **Theoretical Research**: Solid foundation in advanced control and reinforcement learning theory. Leading research on human-machine hybrid control with publications in top journals including IEEE TASE, Information Sciences, and Nonlinear Dynamics.
 - **Engineering Practice**: Extensive experience with unmanned systems development, including UAV-UGV collaborative control projects and multi-unmanned system hardware platforms based on optical motion capture systems. -->
 
-
-
-## 📄 Curriculum Vitae
-You can find my CV here: [Web Version](https://tanjunkai2001.github.io/cv/) | [English PDF](../assets/Curriculum_Vitae.pdf) | [Chinese PDF](../assets/简历_谭浚楷_中文_V3.pdf)
 
 
 
