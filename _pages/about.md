@@ -83,10 +83,15 @@ You can verify my review activities via my [ORCID Profile](https://orcid.org/000
 ## 📊 GitHub Stats
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
   <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="160" style="max-height: 160px;" />
-  <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="160" style="max-height: 160px;" />
+  <img src="https://streak-stats.demolab.com/?user=tanjunkai2001&layout=compact" alt="GitHub Streak" height="160" />
+  <!-- <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="160" style="max-height: 160px;" /> -->
 </div>
 
 
+<!-- <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=tanjunkai2001&layout=compact" alt="GitHub Streak" height="180" />
+</div> -->
 
 
 <!-- # 我的位置
