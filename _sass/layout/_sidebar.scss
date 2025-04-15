@@ -95,7 +95,9 @@
 
   img {
     max-width: 150px;
-    border-radius: 100%;
+    border-radius: 0; // Changed from 50% to 0 for rectangle shape
+    // For circle, use: border-radius: 50%;
+    // For rounded rectangle, use: border-radius: 10px;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -108,7 +110,7 @@
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
-  padding-right: 25px;
+  padding-right: 20px;
   line-height: 1;
 
   @include breakpoint($large) {
