@@ -73,19 +73,20 @@ Detailed publications and open-source code can be found in my [Publications](htt
 
 
 ## 👨‍💼 Professional Activities
+### 🔍 Peer Review Activities
 
-### Peer Review
-I serve as a reviewer for the following journals/conferences:
-  - IEEE Transactions on Automation Science and Engineering (*IEEE TASE*)
-  - IEEE Conference on Decision and Control (*IEEE CDC*)
-  - Engineering Applications of Artificial Intelligence (*EAAI*)
-  - Expert Systems with Applications (*ESWA*)
-  - Acta Astronautica
-  - Measurement
+I actively contribute to the academic community as a reviewer for several prestigious journals and conferences:
+
+[![IEEE TASE](https://img.shields.io/badge/IEEE_TASE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee-ras.org/publications/t-ase) 
+[![IEEE CDC](https://img.shields.io/badge/IEEE_CDC-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://cdc2023.ieeecss.org/)
+
+[![EAAI](https://img.shields.io/badge/EAAI-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) 
+[![ESWA](https://img.shields.io/badge/ESWA-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+
+[![Acta Astronautica](https://img.shields.io/badge/Acta_Astronautica-19AEFF?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.sciencedirect.com/journal/acta-astronautica) 
+[![Measurement](https://img.shields.io/badge/Measurement-19AEFF?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.sciencedirect.com/journal/measurement)
 
 You can verify my review activities via my [ORCID Profile](https://orcid.org/0009-0002-0558-6357).
-
-
 
 <!-- ## 📫 Contact | 联系方式
 - 📧 Email: tanjk@stu.xjtu.edu.cn -->
