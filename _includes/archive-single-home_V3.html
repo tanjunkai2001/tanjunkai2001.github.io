@@ -29,7 +29,8 @@
     <div class="archive__item-content" style="background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 20px; margin-bottom: 25px; transition: all 0.3s ease;">
       {% if post.image %}
         <div class="archive__item-image-container" style="float: right; margin-left: 20px; text-align: right;">
-        <img src="{{ post.image }}" alt="{{ post.title }}" class="archive__item-image" style="max-width: 200px; max-height: 150px; object-fit: cover; border: none; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); vertical-align: top;">
+          <img src="{{ base_path }}/images/{{ post.title }}.png" alt="{{ post.title }}" class="archive__item-image" style="max-width: 210px; max-height: 125px; object-fit: contain; border: 1px solid #ddd; border-radius: 4px; padding: 1px; vertical-align: top;">
+          <!-- <img src="{{ post.image }}" alt="{{ post.title }}" class="archive__item-image" style="max-width: 200px; max-height: 150px; object-fit: cover; border: none; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); vertical-align: top;"> -->
         </div>
       {% endif %}
       
