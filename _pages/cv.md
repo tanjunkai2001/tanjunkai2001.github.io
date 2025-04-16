@@ -26,14 +26,14 @@ Research Projects
   * Developed **Stackelberg game-based reinforcement learning framework** for robust optimal control
   * Implemented prescribed performance constraints for efficient tracking control in nonlinear systems
   * Created novel game-theoretic optimization method for high-dimensional nonlinear systems
-  * Published **3 first-author papers** in IEEE TASE, Nonlinear Dynamics, Information Sciences and presented at ASCC, ICARM, ICDL
+  * Published **4 first-author papers** in *IEEE TASE*, *Nonlinear Dynamics* (2), *Information Sciences* and presented at *ASCC*, *ICARM*, *ICDL*
 
 * **Human-Machine Hybrid Enhancement Research for Data-Driven Shared Optimal Performance**, May 2022 - Dec 2024
   * Tools: Optimal Control, Reinforcement Learning, Game Theory, MATLAB, Unmanned Aerial Vehicles
   * Developed **safety-guarding RL method** for optimal shared control in pilot-UAV interactive systems
   * Implemented **Nash equilibrium game and level-k rationality model** to enhance human-machine collaboration stability
   * Created data-driven interaction modeling approach to optimize human-machine cooperative strategies
-  * Published **3 first-author journal papers** in Neurocomputing, IJRNC, JAI and obtained **3 national patents**
+  * Published **4 first-author journal papers** in *Neurocomputing*, *IJRNC*, *US*, *JAI* and obtained **3 national patents**
 
 Skills
 ======
@@ -95,12 +95,12 @@ Honors and Awards
 Service and leadership
 ======
 * Reviewer for international journals/conferences including:
-  * IEEE Transactions on Automation Science and Engineering (IEEE TASE)
-  * IEEE Conference on Decision and Control (IEEE CDC)
-  * Engineering Applications of Artificial Intelligence (Elsevier)
-  * Expert Systems with Applications (Elsevier)
-  * Acta Astronautica (Elsevier)
-  * Measurement (Elsevier)
+  * IEEE Transactions on Automation Science and Engineering (*IEEE TASE*)
+  * IEEE Conference on Decision and Control (*IEEE CDC*)
+  * Engineering Applications of Artificial Intelligence (*EAAI*)
+  * Expert Systems with Applications (*ESWA*)
+  * Acta Astronautica (*AA*)
+  * Measurement
 * Session Chair of 2023 International Conference on Advanced Robotics and Mechatronics (ICARM)
   <!-- * Chaired technical session at Class A conference of Chinese Association of Automation -->
   * Organized and moderated academic presentations and discussions
