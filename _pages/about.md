@@ -66,7 +66,7 @@ Detailed publications and open-source code can be found in my [Publications](htt
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
-    {% include archive-single-home_V2.html %}
+    {% include archive-single-home_V32.html %}
   {% endif %}
 {% endfor %}
 
