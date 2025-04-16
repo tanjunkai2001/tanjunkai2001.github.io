@@ -72,7 +72,6 @@ Detailed publications and open-source code can be found in my [Publications](htt
 
 
 
-## 👨‍💼 Professional Activities
 ### 🔍 Peer Review Activities
 
 I actively contribute to the academic community as a reviewer for several prestigious journals and conferences:
