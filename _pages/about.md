@@ -16,15 +16,16 @@ redirect_from:
      I'm a second-year graduate student from <a href="https://ee.xjtu.edu.cn/">School of Electrical Engineering</a>, <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University</a>. 
 
     My research focuses on the development of <em>data-driven optimal control algorithms</em> for unmanned systems, with a particular emphasis on <em>human-machine hybrid enhanced shared optimal control</em>. I am also interested in <em>game theory</em> and its applications in <em>multi-agent systems</em>.
-    I am also exploring advanced methods in <em>reinforcement learning</em> and <em>deep learning</em> for autonomous control, particularly focusing on how these techniques can enhance decision-making processes in complex environments.
-
-    I am very fortunate to be advised by <a href="http://gr.xjtu.edu.cn/en/web/huicao">Prof. Hui Cao</a> and <a href="https://gr.xjtu.edu.cn/en/web/xssxjtu">Prof. Shuangsi Xue</a> of BIR Lab, School of EE, Xi'an Jiaotong University. I am also a student of the <a href="https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm">Industrial Automation Lab</a>.
+    <!-- I am also exploring advanced methods in <em>reinforcement learning</em> and <em>deep learning</em> for autonomous control, particularly focusing on how these techniques can enhance decision-making processes in complex environments. -->
   </div>
-  <div style="flex: 1; text-align: right; margin-left: 20px;">
+  <div style="flex: 1; text-align: right; margin-left: 6px;">
     <img src="/images/profile.png" alt="Profile Picture" style="max-width: 150px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </div>
   </div>
 </div>
+
+I am currently pursuing my graduate studies under the guidance of [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/web/huicao) and [Prof. Shuangsi Xue](https://gr.xjtu.edu.cn/en/web/xssxjtu) at the BIR Lab, School of Electrical Engineering, Xi'an Jiaotong University. I am also affiliated with the [Industrial Automation Lab](https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm).
+
 
 ### 🔗 Scholar Links
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junkai-Tan-2) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1234--5678?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0558-6357)
