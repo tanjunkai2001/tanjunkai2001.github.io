@@ -11,17 +11,16 @@ redirect_from:
 
 
 <!-- ## 👨‍💼 About Me | 个人简介 -->
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 2; padding-right: 3px;">
-    <p>I'm a second-year graduate student from <a href="https://ee.xjtu.edu.cn/">School of Electrical Engineering</a>, <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University</a>.</p>
+<div>
+  <div style="float: right; margin-left: 15px; text-align: right;">
+    <img src="/images/profile.png" alt="Profile Picture" style="max-width: 125px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </div>
+  
+  <p>I'm a second-year graduate student from <a href="https://ee.xjtu.edu.cn/">School of Electrical Engineering</a>, <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University</a>.</p>
 
-    <p>My research focuses on the development of <em>data-driven optimal control algorithms</em> for unmanned systems, with a particular emphasis on <em>human-machine hybrid enhanced shared optimal control</em>. I am also interested in <em>game theory</em> and its applications in <em>multi-agent systems</em>.</p>
+  <p>My research focuses on the development of <em>data-driven optimal control algorithms</em> for unmanned systems, with a particular emphasis on <em>human-machine hybrid enhanced shared optimal control</em>. I am also interested in <em>game theory</em> and its applications in <em>multi-agent systems</em>.</p>
 
-    <p>I am currently pursuing my graduate studies under the guidance of <a href="http://gr.xjtu.edu.cn/en/web/huicao">Prof. Hui Cao</a> and <a href="https://gr.xjtu.edu.cn/en/web/xssxjtu">Prof. Shuangsi Xue</a> at the BIR Lab, School of Electrical Engineering, Xi'an Jiaotong University. I am also affiliated with the <a href="https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm">Industrial Automation Lab</a>.</p>
-    </div>
-    <div style="flex: 1; text-align: right; margin-left: 0px;">
-    <img src="/images/profile.png" alt="Profile Picture" style="max-width: 150px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    </div>
+  <p>I am currently pursuing my graduate studies under the guidance of <a href="http://gr.xjtu.edu.cn/en/web/huicao">Prof. Hui Cao</a> and <a href="https://gr.xjtu.edu.cn/en/web/xssxjtu">Prof. Shuangsi Xue</a> at the BIR Lab, School of Electrical Engineering, Xi'an Jiaotong University. I am also affiliated with the <a href="https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm">Industrial Automation Lab</a>.</p>
 </div>
 
 
