@@ -28,11 +28,11 @@
 
     {% if post.image %}
       <div class="archive__item-image-container" style="float: right; margin-left: 5px; text-align: right;">
-      <img src="{{ base_path }}/images/{{ post.title }}.png" alt="{{ post.title }}" class="archive__item-image" style="max-width: 210px; max-height: 135px; object-fit: contain; border: 1px solid #ddd; border-radius: 4px; padding: 1px; vertical-align: top;">
+      <img src="{{ base_path }}/images/{{ post.title }}.png" alt="{{ post.title }}" class="archive__item-image" style="max-width: 210px; max-height: 125px; object-fit: contain; border: 1px solid #ddd; border-radius: 4px; padding: 1px; vertical-align: top;">
       </div>
     {% endif %}
     
-    <h2 class="archive__item-title" itemprop="headline" style="font-size: 0.9em;">
+    <h2 class="archive__item-title" itemprop="headline" style="font-size: 0.95em;">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -61,33 +61,37 @@
     {% if post.citation and post.paperurl and post.code %}
       <p style="margin: 0 0 10px; line-height: 1.6;"><span style="display: block; margin-bottom: 10px; font-weight: 500;">Recommended citation:</span> <span style="font-style: italic; color: #555; display: block; margin-bottom: 12px; line-height: 1.5; background-color: #f9f9f9; padding: 10px; border-left: 4px solid #2a76dd; border-radius: 3px;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span>
       <span class="btn-group" style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <a href="{{ post.paperurl }}" class="btn" style="display: inline-block; background-color: #2a76dd; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.9em;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Paper</a>
-      <a href="{{ post.code }}" class="btn" style="display: inline-block; background-color: #333; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.9em;"><i class="fa fa-code" aria-hidden="true"></i> Code</a>
-      <a href="{{ base_path }}/assets/{{ post.title}}.pdf" class="btn" style="display: inline-block; background-color: #e74c3c; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.9em;"><i class="fa fa-download" aria-hidden="true"></i> Download PDF</a>
+      <a href="{{ post.paperurl }}" class="btn" style="display: inline-block; background-color: #2a76dd; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.8em;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Paper</a>
+      <a href="{{ post.code }}" class="btn" style="display: inline-block; background-color: #333; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.8em;"><i class="fa fa-code" aria-hidden="true"></i> Code</a>
+      <a href="{{ base_path }}/assets/{{ post.title}}.pdf" class="btn" style="display: inline-block; background-color: #e74c3c; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.8em;"><i class="fa fa-download" aria-hidden="true"></i> Download PDF</a>
       </span></p>
     {% elsif post.citation and post.paperurl %}
       <p style="margin: 0 0 10px; line-height: 1.6;"><span style="display: block; margin-bottom: 10px; font-weight: 500;">Recommended citation:</span> <span style="font-style: italic; color: #555; display: block; margin-bottom: 12px; line-height: 1.5; background-color: #f9f9f9; padding: 10px; border-left: 4px solid #2a76dd; border-radius: 3px;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span>
       <span class="btn-group" style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <a href="{{ post.paperurl }}" class="btn" style="display: inline-block; background-color: #2a76dd; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.9em;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Paper</a>
-      <a href="{{ base_path }}/assets/{{ post.title}}.pdf" class="btn" style="display: inline-block; background-color: #e74c3c; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.9em;"><i class="fa fa-download" aria-hidden="true"></i> Download PDF</a>    
+      <a href="{{ post.paperurl }}" class="btn" style="display: inline-block; background-color: #2a76dd; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.8em;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Paper</a>
+      <a href="{{ base_path }}/assets/{{ post.title}}.pdf" class="btn" style="display: inline-block; background-color: #e74c3c; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.8em;"><i class="fa fa-download" aria-hidden="true"></i> Download PDF</a>    
     </span></p>
     {% elsif post.citation and post.code %}
-      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span><br />
-      <a href="{{ post.code }}">Code</a> | 
-      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
+    <p style="margin: 0 0 10px; line-height: 1.6;"><span style="display: block; margin-bottom: 10px; font-weight: 500;">Recommended citation:</span> <span style="font-style: italic; color: #555; display: block; margin-bottom: 12px; line-height: 1.5; background-color: #f9f9f9; padding: 10px; border-left: 4px solid #2a76dd; border-radius: 3px;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span>
+      <span class="btn-group" style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <a href="{{ post.code }}" class="btn" style="display: inline-block; background-color: #333; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.8em;"><i class="fa fa-code" aria-hidden="true"></i> Code</a>
+      <a href="{{ base_path }}/assets/{{ post.title}}.pdf" class="btn" style="display: inline-block; background-color: #e74c3c; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.8em;"><i class="fa fa-download" aria-hidden="true"></i> Download PDF</a>
+      </span></p>
     {% elsif post.citation %}
-      <p style="font-size: 0.85em;">Authors: <span style="color: #555;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span><br />
-      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
+    <p style="margin: 0 0 10px; line-height: 1.6;"><span style="display: block; margin-bottom: 10px; font-weight: 500;">Recommended citation:</span> <span style="font-style: italic; color: #555; display: block; margin-bottom: 12px; line-height: 1.5; background-color: #f9f9f9; padding: 10px; border-left: 4px solid #2a76dd; border-radius: 3px;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span>
+      <span class="btn-group" style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <a href="{{ base_path }}/assets/{{ post.title}}.pdf" class="btn" style="display: inline-block; background-color: #e74c3c; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.8em;"><i class="fa fa-download" aria-hidden="true"></i> Download PDF</a>
+      </span></p>
     {% elsif post.paperurl %}
-      <p style="font-size: 0.85em;"></p>
-      <a href="{{ post.paperurl }}">Paper</a> | 
-      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a>
-      </p>
+    <p style="margin: 0 0 10px; line-height: 1.6;"><span style="display: block; margin-bottom: 10px; font-weight: 500;">Recommended citation:</span> <span style="font-style: italic; color: #555; display: block; margin-bottom: 12px; line-height: 1.5; background-color: #f9f9f9; padding: 10px; border-left: 4px solid #2a76dd; border-radius: 3px;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span>
+      <span class="btn-group" style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <a href="{{ post.paperurl }}" class="btn" style="display: inline-block; background-color: #2a76dd; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.8em;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Paper</a>
+      </span></p>
     {% elsif post.code %}
-      <p style="font-size: 0.85em;">
-      <a href="{{ post.code }}">Code</a> | 
-      <a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a>
-      </p>
+    <p style="margin: 0 0 10px; line-height: 1.6;"><span style="display: block; margin-bottom: 10px; font-weight: 500;">Recommended citation:</span> <span style="font-style: italic; color: #555; display: block; margin-bottom: 12px; line-height: 1.5; background-color: #f9f9f9; padding: 10px; border-left: 4px solid #2a76dd; border-radius: 3px;">{{ post.citation | replace: ",", ""  | replace: " and ", ", " | replace: "Tan Junkai", "<b>Tan Junkai</b>" }}</span>
+      <span class="btn-group" style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <a href="{{ post.code }}" class="btn" style="display: inline-block; background-color: #333; color: white; padding: 8px 15px; text-decoration: none; border-radius: 4px; transition: all 0.3s ease; font-size: 0.8em;"><i class="fa fa-code" aria-hidden="true"></i> Code</a>
+      </span></p>
     {% else %}
       <p style="font-size: 0.85em;"><a href="{{ base_path }}/assets/{{ post.title}}.pdf">Download pdf</a></p>
     {% endif %}
