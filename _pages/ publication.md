@@ -21,7 +21,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
-    {% include archive-single_V2.html %}
+    {% include archive-single_V4.html %}
   {% endif %}
 {% endfor %}
 
