@@ -12,15 +12,14 @@ redirect_from:
 
 <!-- ## 👨‍💼 About Me | 个人简介 -->
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 2;">
+  <div style="flex: 2; padding-right: 10px;">
      I'm a second-year graduate student from <a href="https://ee.xjtu.edu.cn/">School of Electrical Engineering</a>, <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University</a>. 
 
     My research focuses on the development of <em>data-driven optimal control algorithms</em> for unmanned systems, with a particular emphasis on <em>human-machine hybrid enhanced shared optimal control</em>. I am also interested in <em>game theory</em> and its applications in <em>multi-agent systems</em>.
     <!-- I am also exploring advanced methods in <em>reinforcement learning</em> and <em>deep learning</em> for autonomous control, particularly focusing on how these techniques can enhance decision-making processes in complex environments. -->
   </div>
-  <div style="flex: 1; text-align: right; margin-left: 6px;">
+  <div style="flex: 1; text-align: right; margin-left: 0px;">
     <img src="/images/profile.png" alt="Profile Picture" style="max-width: 150px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </div>
   </div>
 </div>
 
@@ -35,6 +34,7 @@ I am currently pursuing my graduate studies under the guidance of [Prof. Hui Cao
 
 ### 📄 Curriculum Vitae
 You can find my CV in both English and Chinese versions. The web version is also available for easy access.
+
 [![Web Version](https://img.shields.io/badge/Web_Version-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://tanjunkai2001.github.io/cv/) [![English PDF](https://img.shields.io/badge/English_PDF-DC3545?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](../assets/Curriculum_Vitae.pdf) [![Chinese PDF](https://img.shields.io/badge/Chinese_PDF-FFC107?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black)](../assets/简历_谭浚楷_中文_V3.pdf)
 
 

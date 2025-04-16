@@ -95,6 +95,7 @@ Honors and Awards
 Service and leadership
 ======
 * Reviewer for international journals/conferences including:
+  * IEEE Transactions on Automation Science and Engineering (IEEE TASE)
   * IEEE Conference on Decision and Control (IEEE CDC)
   * Engineering Applications of Artificial Intelligence (Elsevier)
   * Expert Systems with Applications (Elsevier)
