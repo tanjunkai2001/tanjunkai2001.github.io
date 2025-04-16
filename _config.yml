@@ -22,7 +22,7 @@ repository               : "tanjunkai2001/tanjunkai2001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Junkai Tan (谭浚楷)"
   pronouns         : # example: "she/her"  
   bio              : "from Hunan, China, studying complex & intelligent control theory at EE, XJTU."

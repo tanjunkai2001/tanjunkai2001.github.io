@@ -94,8 +94,11 @@
   }
 
   img {
-    max-width: 150px;
-    border-radius: 0; // Changed from 50% to 0 for rectangle shape
+    max-width: 175px;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 0; // Rectangle shape without rounded corners
     // For circle, use: border-radius: 50%;
     // For rounded rectangle, use: border-radius: 10px;
 

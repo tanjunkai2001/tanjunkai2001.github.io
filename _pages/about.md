@@ -32,8 +32,8 @@ You can find my CV in both English and Chinese versions. The web version is also
 ## 🔬 Research Interests
 My research interests focus on two primary areas with 8 first-author top journal publications in 2025:
 
-1. ***Data-Driven Unmanned Systems Optimal Control:***
-  Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE** (1 published, 1 in revision), **Nonlinear Dynamics** (1 published, 1 accepted), **INS***.
+1. ***Data-Driven Optimal Control of Unmanned Systems:***
+  Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE**(1 published, 1 in revision), **Nonlinear Dynamics**(2), **INS***.
 
 1. ***Human-Machine Hybrid Enhanced Shared Optimal Control:***
   Creating systems that combine human expertise with machine capabilities for superior control. *Published in **Neurocomputing**, **IJRNC**, **US**, **JAI***.
