@@ -67,6 +67,7 @@ Detailed publications and open-source code can be found in my [Publications](htt
 
 ### Peer Review
 I serve as a reviewer for the following journals/conferences:
+  - IEEE Transactions on Automation Science and Engineering (*IEEE TASE*)
   - IEEE Conference on Decision and Control (*IEEE CDC*)
   - Engineering Applications of Artificial Intelligence (*EAAI*)
   - Expert Systems with Applications (*ESWA*)
