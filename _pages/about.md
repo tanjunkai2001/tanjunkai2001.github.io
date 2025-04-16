@@ -11,11 +11,18 @@ redirect_from:
 
 
 <!-- ## 👨‍💼 About Me | 个人简介 -->
-I’m a second-year graduate student from [School of Electrical Engineering](https://ee.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research focuses on the development of *data-driven optimal control algorithms* for unmanned systems, with a particular emphasis on *human-machine hybrid enhanced shared optimal control*. I am also interested in *game theory* and its applications in *multi-agent systems*.
- <!-- My research interest include *robotics control*, *intelligent control*, *learning-based control*, and *unmanned system control*. -->
-<!-- - 🌐 Personal Website: [tanjunkai2001.github.io](https://tanjunkai2001.github.io) -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 2;">
+     I'm a second-year graduate student from <a href="https://ee.xjtu.edu.cn/">School of Electrical Engineering</a>, <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University</a>. 
 
-I am very fortunate to be advised by [Prof. Hui Cao](http://gr.xjtu.edu.cn/en/web/huicao) and [Prof. Shuangsi Xue](https://gr.xjtu.edu.cn/en/web/xssxjtu) of BIR Lab, School of EE, Xi'an Jiaotong University. I am also a student of the [Industrial Automation Lab](https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm).
+    My research focuses on the development of <em>data-driven optimal control algorithms</em> for unmanned systems, with a particular emphasis on <em>human-machine hybrid enhanced shared optimal control</em>. I am also interested in <em>game theory</em> and its applications in <em>multi-agent systems</em>.
+
+    I am very fortunate to be advised by <a href="http://gr.xjtu.edu.cn/en/web/huicao">Prof. Hui Cao</a> and <a href="https://gr.xjtu.edu.cn/en/web/xssxjtu">Prof. Shuangsi Xue</a> of BIR Lab, School of EE, Xi'an Jiaotong University. I am also a student of the <a href="https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm">Industrial Automation Lab</a>.
+  </div>
+  <div style="flex: 1; text-align: right; margin-left: 20px;">
+    <img src="/images/profile.png" alt="Profile Picture" style="max-width: 100%; border-radius: 5px;">
+  </div>
+</div>
 
 ### 🔗 Scholar Links
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junkai-Tan-2) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1234--5678?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0558-6357)
