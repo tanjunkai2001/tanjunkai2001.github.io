@@ -13,7 +13,7 @@ redirect_from:
 <!-- ## 👨‍💼 About Me | 个人简介 -->
 <div>
   <div style="float: right; margin-left: 15px; text-align: right;">
-    <img src="/images/profile.png" alt="Profile Picture" style="max-width: 120px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="/images/profile.png" alt="Profile Picture" style="max-width: 135px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </div>
   
   <p>I'm a second-year graduate student from <a href="https://ee.xjtu.edu.cn/">School of Electrical Engineering</a>, <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University</a>.</p>
