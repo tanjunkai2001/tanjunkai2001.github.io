@@ -34,7 +34,7 @@ redirect_from:
 ### 📄 Curriculum Vitae
 You can find my CV in both English and Chinese versions. The web version is also available for easy access.
 
-[![Web Version](https://img.shields.io/badge/Web_Version-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://tanjunkai2001.github.io/cv/) [![English PDF](https://img.shields.io/badge/English_PDF-DC3545?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](../assets/Curriculum_Vitae.pdf) [![Chinese PDF](https://img.shields.io/badge/Chinese_PDF-FFC107?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black)](../assets/简历_谭浚楷_中文_V3.pdf)
+[![Web Version](https://img.shields.io/badge/Web_Version-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://tanjunkai2001.github.io/cv/) [![English PDF](https://img.shields.io/badge/English_PDF-DC3545?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](../assets/Curriculum_Vitae.pdf) [![Chinese PDF](https://img.shields.io/badge/Chinese_PDF-FFC107?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black)](../assets/简历_谭浚楷_中文.pdf)
 
 
 
