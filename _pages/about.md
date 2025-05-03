@@ -9,43 +9,50 @@ redirect_from:
   - /about.html
 ---
 
+## 👨‍💼 About Me | 个人简介
 
-<!-- ## 👨‍💼 About Me | 个人简介 -->
-<div>
-  <div style="float: right; margin-left: 15px; text-align: right;">
-    <img src="/images/profile.png" alt="Profile Picture" style="max-width: 135px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </div>
-  
-  <p>I'm a second-year graduate student from <a href="https://ee.xjtu.edu.cn/">School of Electrical Engineering</a>, <a href="https://www.xjtu.edu.cn/">Xi'an Jiaotong University</a>.</p>
+I am a second-year graduate student at the <a href="https://ee.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">School of Electrical Engineering</a>, <a href="https://www.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Xi'an Jiaotong University</a>, under the guidance of <a href="http://gr.xjtu.edu.cn/en/web/huicao" target="_blank" rel="noopener noreferrer">Prof. Hui Cao</a> and <a href="https://gr.xjtu.edu.cn/en/web/xssxjtu" target="_blank" rel="noopener noreferrer">Prof. Shuangsi Xue</a> at the BIR Lab. I am also affiliated with the <a href="https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm" target="_blank" rel="noopener noreferrer">Industrial Automation Lab</a> within the School of Electrical Engineering.
 
-  <p>My research focuses on the development of <em>data-driven optimal control algorithms</em> for unmanned systems, with a particular emphasis on <em>human-machine hybrid enhanced shared optimal control</em>. I am also interested in <em>game theory</em> and its applications in <em>multi-agent systems</em>.</p>
-
-  <p>I am currently pursuing my graduate studies under the guidance of <a href="http://gr.xjtu.edu.cn/en/web/huicao">Prof. Hui Cao</a> and <a href="https://gr.xjtu.edu.cn/en/web/xssxjtu">Prof. Shuangsi Xue</a> at the BIR Lab, School of Electrical Engineering, Xi'an Jiaotong University. I am also affiliated with the <a href="https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm">Industrial Automation Lab</a>.</p>
-</div>
-
-
-
-### 🔗 Scholar Links
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjunkai2001) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junkai-Tan-2) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1234--5678?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0558-6357)
-
-### 📫 Contact | 联系方式
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjk@stu.xjtu.edu.cn) [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](../images/Wechat.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junkai-tan-366790268/) [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/tan-91-64) [![Rednote](https://img.shields.io/badge/Rednote-FF4D00?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/60bcf6040000000001001810)
-
-### 📄 Curriculum Vitae
-You can find my CV in both English and Chinese versions. The web version is also available for easy access.
-
-[![Web Version](https://img.shields.io/badge/Web_Version-0077B5?style=for-the-badge&logo=academia&logoColor=white)](https://tanjunkai2001.github.io/cv/) [![English PDF](https://img.shields.io/badge/English_PDF-DC3545?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](../assets/Curriculum_Vitae_EN.pdf) [![Chinese PDF](https://img.shields.io/badge/Chinese_PDF-FFC107?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black)](../assets/Curriculum_Vitae_CN.pdf)
-
-
-
-## 🔬 Research Interests
-My research interests focus on two primary areas with 8 first-author top journal publications in 2025:
+My current research interests focus on two primary areas with 8 first-author journal publications ![Google Scholar Citations](../images/gsbg.svg) in 2025:
 
 1. ***Data-Driven Optimal Control of Unmanned Systems:***
   Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE TASE**(1 published, 1 in revision), **Nonlinear Dynamics**(2), **INS***.
 
 1. ***Human-Machine Hybrid Enhanced Shared Optimal Control:***
   Creating systems that combine human expertise with machine capabilities for superior control. *Published in **Neurocomputing**, **IJRNC**, **US**, **JAI***.
+
+---
+
+## 🔗 Scholar Links & Contact
+
+Connect with me through various platforms and access my CV below.
+
+**Academic Profiles:**
+<div>
+  <a href="https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://github.com/tanjunkai2001" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-tanjunkai2001-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.researchgate.net/profile/Junkai-Tan-2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://orcid.org/0009-0002-0558-6357" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ORCID-0009--0002--0558--6357-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+</div>
+
+**Contact:**
+<div>
+  <a href="mailto:tanjk@stu.xjtu.edu.cn"><img src="https://img.shields.io/badge/Email-tanjk@stu.xjtu.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/junkai-tan-366790268/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Junkai%20Tan-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="../images/Wechat.jpg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WeChat-Contact%20Me-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat"></a>
+  <a href="https://www.zhihu.com/people/tan-91-64" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Zhihu-知乎主页-0084FF?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/60bcf6040000000001001810" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Rednote-小红书-FF4D00?style=flat-square&logo=xiaohongshu&logoColor=white" alt="Rednote"></a>
+</div>
+
+**Curriculum Vitae:**
+<div>
+  <a href="https://tanjunkai2001.github.io/cv/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Web_Version-Online-0077B5?style=flat-square&logo=academia&logoColor=white" alt="Web Version CV"></a>
+  <a href="../assets/Curriculum_Vitae_EN.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/English_PDF-Download-DC3545?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="English PDF CV"></a>
+  <a href="../assets/Curriculum_Vitae_CN.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chinese_PDF-下载-FFC107?style=flat-square&logo=adobe-acrobat-reader&logoColor=black" alt="Chinese PDF CV"></a>
+</div>
+
+---
+
 
 <!-- ## 💻 Core Competencies
 - **Theoretical Research**: Solid foundation in advanced control and reinforcement learning theory. Leading research on human-machine hybrid control with publications in top journals including IEEE TASE, Information Sciences, and Nonlinear Dynamics.
@@ -70,13 +77,13 @@ Detailed publications and open-source code can be found in my [Publications](htt
   {% endif %}
 {% endfor %}
 
-
+---
 
 ## 👨‍💼 Professional Activities
 
 ### Peer Review
 I serve as a reviewer for the following journals/conferences:
-  - IEEE Transactions on Automation Science and Engineering (*IEEE TASE*)
+  - IEEE Transactions on Automation Science and Engineering (*10+*)
   - IEEE Conference on Decision and Control (*IEEE CDC*)
   - Engineering Applications of Artificial Intelligence (*EAAI*)
   - Expert Systems with Applications (*ESWA*)
@@ -85,6 +92,7 @@ I serve as a reviewer for the following journals/conferences:
 
 You can verify my review activities via my [ORCID Profile](https://orcid.org/0009-0002-0558-6357).
 
+---
 
 
 <!-- ## 📫 Contact | 联系方式

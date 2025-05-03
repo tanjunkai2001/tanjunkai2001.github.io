@@ -80,34 +80,34 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 170px;
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-    border-radius: 0; // Rectangle shape without rounded corners
-    // For circle, use: border-radius: 50%;
-    // For rounded rectangle, use: border-radius: 10px;
+  .author__avatar {
+    display: table-cell;
+    vertical-align: top;
+    width: 36px;
+    // set width only, for non-square avatars
+    // height: 36px;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
+      display: block;
+      width: auto;
+      height: auto;
+    }
+
+    img {
+      max-width: 170px;
+      width: 100%;
+      height: auto;
+      object-fit: contain;
+      border-radius: 50%; // For circle, use: border-radius: 50%;
+      // For rectangle shape without rounded corners, use: border-radius: 0;
+      // For rounded rectangle, use: border-radius: 10px;
+
+      @include breakpoint($large) {
+        padding: 5px;
+        border: 1px solid var(--global-border-color);
+      }
     }
   }
-}
 
 .author__content {
   display: table-cell;
