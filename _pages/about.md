@@ -27,7 +27,7 @@ My current research interests focus on two primary areas with 8 first-author jou
 
 Connect with me through various platforms and access my CV below.
 
-**Academic Profiles:**
+### **Academic Profiles:**
 <div>
   <a href="https://scholar.google.com/citations?user=KrOQdKAAAAAJ&hl=zh-CN" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://github.com/tanjunkai2001" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-tanjunkai2001-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -35,7 +35,7 @@ Connect with me through various platforms and access my CV below.
   <a href="https://orcid.org/0009-0002-0558-6357" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ORCID-0009--0002--0558--6357-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 </div>
 
-**Contact:**
+### **Contact:**
 <div>
   <a href="mailto:tanjk@stu.xjtu.edu.cn"><img src="https://img.shields.io/badge/Email-tanjk@stu.xjtu.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/junkai-tan-366790268/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Junkai%20Tan-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -44,7 +44,7 @@ Connect with me through various platforms and access my CV below.
   <a href="https://www.xiaohongshu.com/user/profile/60bcf6040000000001001810" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Rednote-小红书-FF4D00?style=flat-square&logo=xiaohongshu&logoColor=white" alt="Rednote"></a>
 </div>
 
-**Curriculum Vitae:**
+### **Curriculum Vitae:**
 <div>
   <a href="https://tanjunkai2001.github.io/cv/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Web_Version-Online-0077B5?style=flat-square&logo=academia&logoColor=white" alt="Web Version CV"></a>
   <a href="../assets/Curriculum_Vitae_EN.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/English_PDF-Download-DC3545?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="English PDF CV"></a>
