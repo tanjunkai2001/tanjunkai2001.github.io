@@ -95,10 +95,13 @@ Honors and Awards
 Service and leadership
 ======
 * Reviewer for international journals/conferences including:
-  * IEEE Transactions on Automation Science and Engineering (*IEEE TASE*)
+  * IEEE Transactions on Automation Science and Engineering (*IEEE TASE*, 20+ reviews) 
+  * Expert Systems with Applications (*ESWA*, 10+ reviews)
+  * Engineering Applications of Artificial Intelligence (*EAAI*, 5+ reviews)
+  * Information Sciences (*INS*)
+  * Applied Soft Computing (*ASC*)
+  * Journal of the Franklin Institute (*JFI*)
   * IEEE Conference on Decision and Control (*IEEE CDC*)
-  * Engineering Applications of Artificial Intelligence (*EAAI*)
-  * Expert Systems with Applications (*ESWA*)
   * Acta Astronautica (*AA*)
   * Measurement
 * Session Chair of 2023 International Conference on Advanced Robotics and Mechatronics (ICARM)
