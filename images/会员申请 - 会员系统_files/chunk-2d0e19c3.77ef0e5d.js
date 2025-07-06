@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e19c3"],{"7abe":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div")},a=[],u={name:"Index",created:function(){this.$router.push("/home")}},r=u,o=t("2877"),s=Object(o["a"])(r,c,a,!1,null,"32ba4cea",null);n["default"]=s.exports}}]);
