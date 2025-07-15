@@ -25,6 +25,7 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
 $times                      : Times, serif;
+$times-new-roman            : "Times New Roman", Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
@@ -39,9 +40,9 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : $times-new-roman;
+$header-font-family         : $times-new-roman;
+$caption-font-family        : $times-new-roman;
 
 /* ==========================================================================
    Breakpoints
