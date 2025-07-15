@@ -83,10 +83,15 @@ Detailed publications and open-source code can be found in my [Publications](htt
 
 ### Peer Review
 I serve as a reviewer for the following journals/conferences:
-  - IEEE Transactions on Automation Science and Engineering (*10+*)
+  - IEEE Transactions on Automation Science and Engineering (*T-ASE, 40+*)
   - IEEE Conference on Decision and Control (*IEEE CDC*)
+  - Knowledge-based systems (*KBS*)
   - Engineering Applications of Artificial Intelligence (*EAAI*)
-  - Expert Systems with Applications (*ESWA*)
+  - Expert Systems with Applications (*ESWA, 10+*)
+  - Applied soft computing (*ASC*)
+  - Neurocomputing (*NC*)
+  - Information sciences (*IS*)
+  - Journal of the Franklin Institute (*JFI*)
   - Acta Astronautica
   - Measurement
 
