@@ -13,7 +13,7 @@ redirect_from:
   /* Set font family to Times New Roman for the about page content */
   .page__content {
     font-family: "Times New Roman", Times, serif !important;
-    font-size: 14px !important;
+    font-size: 16px !important;
     line-height: 1.6 !important;
   }
   
@@ -23,7 +23,7 @@ redirect_from:
   
   .page__content p, .page__content li, .page__content div {
     font-family: "Times New Roman", Times, serif !important;
-    font-size: 14px !important;
+    font-size: 16px !important;
   }
 </style>
 

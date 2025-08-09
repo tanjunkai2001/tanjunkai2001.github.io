@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <div class="archive__item-content" style="background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 20px; margin-bottom: 25px; transition: all 0.3s ease; font-family: 'Times New Roman', Times, serif; font-size: 14px;">>
+    <div class="archive__item-content" style="background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 20px; margin-bottom: 25px; transition: all 0.3s ease; font-family: 'Times New Roman', Times, serif; font-size: 16px;">>
       {% if post.image %}
         <div class="archive__item-image-container" style="float: right; margin-left: 20px; text-align: right;">
           <img src="{{ base_path }}/images/{{ post.title }}.png" alt="{{ post.title }}" class="archive__item-image" style="max-width: 210px; max-height: 125px; object-fit: contain; border: 1px solid #ddd; border-radius: 4px; padding: 1px; vertical-align: top;">
@@ -55,9 +55,9 @@
       {% endif %}
 
       {% if post.excerpt and site.read_more != 'enabled' %}
-        <p class="archive__item-excerpt" itemprop="description" style="margin: 10px 0 15px; line-height: 1.6; color: #333; font-family: 'Times New Roman', Times, serif; font-size: 14px;">{{ post.excerpt | markdownify }}</p>
+        <p class="archive__item-excerpt" itemprop="description" style="margin: 10px 0 15px; line-height: 1.6; color: #333; font-family: 'Times New Roman', Times, serif; font-size: 16px;">{{ post.excerpt | markdownify }}</p>
       {% elsif post.excerpt and site.read_more == 'enabled' %}
-        <p class="archive__item-excerpt" itemprop="description" style="margin: 10px 0 15px; line-height: 1.6; color: #333; font-family: 'Times New Roman', Times, serif; font-size: 14px;"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink" style="color: #2a76dd; transition: color 0.2s ease; font-family: 'Times New Roman', Times, serif;"> Read more</a></strong></p></p>
+        <p class="archive__item-excerpt" itemprop="description" style="margin: 10px 0 15px; line-height: 1.6; color: #333; font-family: 'Times New Roman', Times, serif; font-size: 16px;"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink" style="color: #2a76dd; transition: color 0.2s ease; font-family: 'Times New Roman', Times, serif;"> Read more</a></strong></p></p>
       {% endif %}
       
       <div class="archive__item-links" style="margin-top: 15px;">
