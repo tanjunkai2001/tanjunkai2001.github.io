@@ -1,9 +1,3 @@
-<style>
-body, div, p, h1, h2, h3, h4, h5, h6, ul, ol, li, a, table, th, td, code, pre {
-  font-family: "Times New Roman", Times, serif !important;
-}
-</style>
-
 ---
 permalink: /
 title: "Junkai Tan / 谭浚楷"
@@ -59,9 +53,23 @@ Connect with me through various platforms and access my CV below.
 
 ---
 
+
+<!-- ## 💻 Core Competencies
+- **Theoretical Research**: Solid foundation in advanced control and reinforcement learning theory. Leading research on human-machine hybrid control with publications in top journals including IEEE TASE, Information Sciences, and Nonlinear Dynamics.
+- **Engineering Practice**: Extensive experience with unmanned systems development, including UAV-UGV collaborative control projects and multi-unmanned system hardware platforms based on optical motion capture systems. -->
+
+
+
+
 ## 📝 Selected Publications
 
 Detailed publications and open-source code can be found in my [Publications](https://tanjunkai2001.github.io/publications/) page.
+
+<!-- 1. "[Prescribed performance robust approximate optimal tracking control via Stackelberg game](https://ieeexplore.ieee.org/document/10916718)", *IEEE Transactions on Automation Science and Engineering*, 2025.
+2. "[Finite-time safe reinforcement learning control of multi-player nonzero-sum game for quadcopter systems](https://www.sciencedirect.com/science/article/pii/S002002552500249X)", *Information Sciences*, 2025.
+3. "[Unmanned aerial-ground vehicle finite-time docking control via pursuit-evasion games](https://link.springer.com/10.1007/s11071-025-11021-6)", *Nonlinear Dynamics*, 2025.
+4. "[Data-driven optimal shared control of unmanned aerial vehicles](https://www.sciencedirect.com/science/article/pii/S0925231225001006)", *Neurocomputing*, 2025. -->
+
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
@@ -91,13 +99,32 @@ You can verify my review activities via my [ORCID Profile](https://orcid.org/000
 
 ---
 
+
+<!-- ## 📫 Contact | 联系方式
+- 📧 Email: tanjk@stu.xjtu.edu.cn -->
+
 ## 📊 GitHub Stats
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
   <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="160" style="max-height: 160px;" />
   <img src="https://streak-stats.demolab.com/?user=tanjunkai2001&layout=compact" alt="GitHub Streak" height="160" />
+  <!-- <img src="https://github-readme-stats-weld-six-22.vercel.app/api?username=tanjunkai2001&count_private=true&show_icons=true" alt="GitHub Stats" height="160" style="max-height: 160px;" /> -->
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanjunkai2001&theme=github-compact)
+
+
+<!-- <div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="https://github-readme-stats-weld-six-22.vercel.app/api/top-langs/?username=tanjunkai2001&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=tanjunkai2001&layout=compact" alt="GitHub Streak" height="180" />
+</div> -->
+
+
+<!-- # 我的位置
+
+这是我在香港大学的地址，显示在地图上： -->
+
+
+
 
 ## 📍 Location
 
