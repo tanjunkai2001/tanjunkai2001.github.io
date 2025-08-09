@@ -73,7 +73,7 @@ Detailed publications and open-source code can be found in my [Publications](htt
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
-    {% include archive-single-home_V3.html %}
+    {% include archive-single-home_V1.html %}
   {% endif %}
 {% endfor %}
 
@@ -83,7 +83,7 @@ Detailed publications and open-source code can be found in my [Publications](htt
 
 ### Peer Review
 I serve as a reviewer for the following journals/conferences:
-  - IEEE Transactions on Automation Science and Engineering (*T-ASE, 40+*)
+  - IEEE Transactions on Automation Science and Engineering (*T-ASE, 60+*)
   - IEEE Conference on Decision and Control (*IEEE CDC*)
   - Knowledge-based systems (*KBS*)
   - Engineering Applications of Artificial Intelligence (*EAAI*)
