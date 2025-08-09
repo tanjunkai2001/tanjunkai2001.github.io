@@ -9,6 +9,24 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  /* Set font family to Times New Roman for the about page content */
+  .page__content {
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+  }
+  
+  .page__content h1, .page__content h2, .page__content h3, .page__content h4, .page__content h5, .page__content h6 {
+    font-family: "Times New Roman", Times, serif !important;
+  }
+  
+  .page__content p, .page__content li, .page__content div {
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 14px !important;
+  }
+</style>
+
 ## 👨‍💼 About Me | 个人简介
 
 I am a second-year graduate student at the <a href="https://ee.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">School of Electrical Engineering</a>, <a href="https://www.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Xi'an Jiaotong University</a>, under the guidance of <a href="http://gr.xjtu.edu.cn/en/web/huicao" target="_blank" rel="noopener noreferrer">Prof. Hui Cao</a> and <a href="https://gr.xjtu.edu.cn/en/web/xssxjtu" target="_blank" rel="noopener noreferrer">Prof. Shuangsi Xue</a> at the BIR Lab. I am also affiliated with the <a href="https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm" target="_blank" rel="noopener noreferrer">Industrial Automation Lab</a> within the School of Electrical Engineering.
