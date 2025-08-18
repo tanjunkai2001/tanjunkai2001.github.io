@@ -28,9 +28,9 @@ redirect_from:
 
 ## 👨‍💼 About Me | 个人简介
 
-I am a second-year graduate student at the `<a href="https://ee.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">`School of Electrical Engineering`</a>`, `<a href="https://www.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">`Xi'an Jiaotong University`</a>`, under the guidance of `<a href="http://gr.xjtu.edu.cn/en/web/huicao" target="_blank" rel="noopener noreferrer">`Prof. Hui Cao`</a>` and `<a href="https://gr.xjtu.edu.cn/en/web/xssxjtu" target="_blank" rel="noopener noreferrer">`Prof. Shuangsi Xue`</a>` at the BIR Lab. I am also affiliated with the `<a href="https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm" target="_blank" rel="noopener noreferrer">`Industrial Automation Lab`</a>` within the School of Electrical Engineering.
+I am a second-year graduate student at the <a href="https://ee.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">School of Electrical Engineering</a>, <a href="https://www.xjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Xi'an Jiaotong University</a>, under the guidance of <a href="http://gr.xjtu.edu.cn/en/web/huicao" target="_blank" rel="noopener noreferrer">Prof. Hui Cao</a> and <a href="https://gr.xjtu.edu.cn/en/web/xssxjtu" target="_blank" rel="noopener noreferrer">Prof. Shuangsi Xue</a> at the BIR Lab. I am also affiliated with the <a href="https://ee.xjtu.edu.cn/szdw/bssds/gyzdhjys.htm" target="_blank" rel="noopener noreferrer">Industrial Automation Lab</a> within the School of Electrical Engineering.
 
-My current research interests focus on two primary areas with 10+ first-author journal publications ![Google Scholar Citations](../images/gsbg.svg) in 2025, in which 2 of them are ***<span style="color:red;">🔥 ESI Highly Cited Paper</span>***:
+My current research interests focus on two primary areas with 10+ first-author journal publications ![Google Scholar Citations](../images/gsbg.svg) in 2025, in which 2 of them are ***🔥 ESI Highly Cited Paper***:
 
 1. ***Data-Driven Optimal Control of Unmanned Systems:***
    Developing control algorithms that leverage data to optimize unmanned system performance. *Published in **IEEE/CAA JAS**, **IEEE TASE**(2), **Nonlinear Dynamics**(2), **INS***.
