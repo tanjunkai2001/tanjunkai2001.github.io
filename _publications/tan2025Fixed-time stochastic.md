@@ -2,7 +2,7 @@
 title: "Fixed-time stochastic learning from human-UAV interaction with state-input constraints"
 collection: publications
 permalink: /publication/tanFixedtimeStochasticLearning2025
-date: 2025-10-01 00:00:00 +0500
+date: 2025-10-02 00:00:00 +0500
 venue: 'IEEE Transactions on Industrial Electronics'
 # paperurl: 'https://ieeexplore.ieee.org/document/11121383/'
 # doi: '10.1016/j.ins.2025.122117'

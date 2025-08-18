@@ -2,7 +2,7 @@
 title: "Fixed-time hierarchical game-based unmanned aerial-ground vehicle docking control"
 collection: publications
 permalink: /publication/tanFixedtimeHierarchicalGamebased2025
-date: 2025-10-01 00:00:00 +0500
+date: 2025-10-02 00:00:00 +0500
 venue: 'IEEE/CAA Journal of Automatica Sinica'
 # paperurl: 'https://ieeexplore.ieee.org/document/11121383/'
 # doi: '10.1016/j.ins.2025.122117'
